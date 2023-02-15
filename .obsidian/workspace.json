@@ -11,12 +11,8 @@
             "id": "130e3f738141e0ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process state.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processes/process state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processes/process state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Processes/process state.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "130e3f738141e0ec",
   "lastOpenFiles": [
-    "Processes/program counter.md",
     "Processes/process state.md",
+    "Processes/program counter.md",
     "Processes/process.md",
     "README.md",
     "Threading/spin lock.md",
