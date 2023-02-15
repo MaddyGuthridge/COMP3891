@@ -1,3 +1,11 @@
 {
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ]
 }
