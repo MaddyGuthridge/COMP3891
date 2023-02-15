@@ -11,8 +11,12 @@
             "id": "130e3f738141e0ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process state.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Processes/process state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Processes/process state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Processes/process state.md"
+              }
             }
           }
         ]
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "130e3f738141e0ec",
+  "active": "6e17cac0900edbc1",
   "lastOpenFiles": [
-    "spin lock.md",
+    "Processes/program counter.md",
+    "Processes/process state.md",
+    "Processes/process.md",
     "README.md",
-    "threading issues.md",
+    "Threading/spin lock.md",
+    "Threading/threading issues.md",
     "COMP/OS/thread.md",
     "COMP/OS/threading issues.md",
     "COMP/OS/program counter.md",
-    "COMP/OS/ready queue.md",
-    "COMP/OS/process state.md",
-    "COMP/OS/process.md",
-    "COMP/OS/OS responsibilities.md"
+    "COMP/OS/ready queue.md"
   ]
 }
