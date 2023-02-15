@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bdba3ded11a254e",
+        "id": "6910c4d06469e578",
         "type": "tabs",
         "children": [
           {
-            "id": "70b60cd6f441f1cd",
+            "id": "130e3f738141e0ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spin lock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eb94526e61639bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb94526e61639bb",
+  "active": "130e3f738141e0ec",
   "lastOpenFiles": [
     "spin lock.md",
+    "README.md",
     "threading issues.md",
     "COMP/OS/thread.md",
     "COMP/OS/threading issues.md",
@@ -170,7 +150,6 @@
     "COMP/OS/ready queue.md",
     "COMP/OS/process state.md",
     "COMP/OS/process.md",
-    "COMP/OS/OS responsibilities.md",
-    "COMP/OS/context switching.md"
+    "COMP/OS/OS responsibilities.md"
   ]
 }
