@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6910c4d06469e578",
+        "id": "2ccd924897983e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "130e3f738141e0ec",
+            "id": "9464e912c246d5cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "130e3f738141e0ec",
+  "active": "6e17cac0900edbc1",
   "lastOpenFiles": [
     "Processes/process state.md",
     "Processes/program counter.md",
