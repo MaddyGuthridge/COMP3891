@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af073f7e63e0cdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/semaphore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61620af6be870fd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/spin lock.md",
+                "file": "Threading/semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/spin lock.md",
+                "file": "Threading/semaphore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/spin lock.md"
+                "file": "Threading/semaphore.md"
               }
             }
           }
@@ -147,13 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c33e967152c1aabc",
+  "active": "61620af6be870fd2",
   "lastOpenFiles": [
+    "Threading/spin lock.md",
+    "Threading/semaphore.md",
     "Processes/process state.md",
     "Processes/program counter.md",
     "Processes/process.md",
     "README.md",
-    "Threading/spin lock.md",
     "Threading/threading issues.md",
     "COMP/OS/thread.md",
     "COMP/OS/threading issues.md",
