@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2830fdd91276b505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/scheduler activations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/deadlock.md",
+                "file": "Threading/scheduler activations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/deadlock.md",
+                "file": "Threading/scheduler activations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/deadlock.md"
+                "file": "Threading/scheduler activations.md"
               }
             }
           }
@@ -184,10 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5cefe7e804efbf6",
+  "active": "2830fdd91276b505",
   "lastOpenFiles": [
     "Threading/upcalls.md",
+    "Threading/scheduler activations.md",
     "Threading/deadlock.md",
+    "Untitled",
     "Threading/thread.md",
     "Threading/semaphore.md",
     "Threading/spin lock.md",
