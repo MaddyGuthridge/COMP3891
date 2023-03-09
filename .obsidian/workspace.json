@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threading/branch delay.md",
+                "file": "Threading/scheduler activations.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/branch delay.md",
+                "file": "Threading/scheduler activations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/branch delay.md",
+                "file": "Threading/scheduler activations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/branch delay.md"
+                "file": "Threading/scheduler activations.md"
               }
             }
           }
@@ -210,11 +210,13 @@
   },
   "active": "e025a6d5812c3dd0",
   "lastOpenFiles": [
+    "Threading/ready queue.md",
+    "Threading/deadlock.md",
+    "Threading/context switching.md",
+    "mips/branch delay.md",
     "Threading/scheduler activations.md",
-    "Threading/branch delay.md",
     "mips",
     "Threading/upcalls.md",
-    "Threading/deadlock.md",
     "Threading/thread.md",
     "Threading/semaphore.md",
     "Threading/spin lock.md",
