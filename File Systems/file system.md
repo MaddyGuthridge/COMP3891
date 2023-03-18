@@ -15,4 +15,8 @@ A file system can also provide tools for formatting, defragmentation, backup, co
 
 ## File system optimisation
 
-A good file system will optimise for the following
+A good file system will optimise for the following things:
+
+- Rapid access
+- Ease of update
+- Economy of storage
