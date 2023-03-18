@@ -5,6 +5,7 @@ Only file type that the Kernel needs to deal with is executables (eg `.exe` on W
 Some files aren't really files, especially on UNIX-y systems:
 
 - Directories
+- Symbolic links
 - Device files 
 	- Read/write to a device like it was a file
 	- Block devices
@@ -22,3 +23,4 @@ Files also have metadata that can be useful
 	- Accessed
 - Size
 - Locks (to prevent data races)
+- And more, depending on OS

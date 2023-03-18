@@ -12,3 +12,7 @@ This abstraction provides
 | Access control                        | No access control                                                                           |
 
 A file system can also provide tools for formatting, defragmentation, backup, consistency checking, and error correction.
+
+## File system optimisation
+
+A good file system will optimise for the following
