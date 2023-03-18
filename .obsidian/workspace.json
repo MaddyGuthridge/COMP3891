@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threading/context switching.md",
+                "file": "OS components/kernel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed129a4c25777fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/execution modes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/context switching.md",
+                "file": "OS components/execution modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/context switching.md",
+                "file": "OS components/execution modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/context switching.md"
+                "file": "OS components/execution modes.md"
               }
             }
           }
@@ -147,14 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e604b8522b05c1c8",
+  "active": "ed129a4c25777fdb",
   "lastOpenFiles": [
-    "Threading/scheduler activations.md",
-    "Threading/upcalls.md",
-    "OS components/syscalls.md",
     "OS components/kernel.md",
-    "OS components",
+    "OS components/execution modes.md",
+    "OS components/syscalls.md",
+    "Processes/program counter.md",
+    "Threading/scheduler activations.md",
     "Threading/context switching.md",
+    "Threading/upcalls.md",
+    "OS components",
     "Threading/ready queue.md",
     "Threading/deadlock.md",
     "mips/branch delay.md",
@@ -163,7 +178,6 @@
     "Threading/semaphore.md",
     "Threading/spin lock.md",
     "Processes/process state.md",
-    "Processes/program counter.md",
     "Processes/process.md",
     "README.md",
     "Threading/threading issues.md",

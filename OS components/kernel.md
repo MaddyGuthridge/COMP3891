@@ -1,0 +1,1 @@
+The core of an operating system, given full privileged-mode control over the CPU (see [[execution modes]].
