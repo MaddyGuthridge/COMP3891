@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os-161/os-161 syscalls.md",
+                "file": "Processes/process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eee93bb8ff5d337d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os-161/os-161 syscalls.md",
+                "file": "Processes/process memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os-161/os-161 syscalls.md",
+                "file": "Processes/process memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os-161/os-161 syscalls.md"
+                "file": "Processes/process memory.md"
               }
             }
           }
@@ -244,11 +256,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90559d178fb1e50d",
+  "active": "eee93bb8ff5d337d",
   "lastOpenFiles": [
+    "Processes/process.md",
+    "Processes/process memory.md",
+    "os-161/os-161 syscalls.md",
     "OS components/syscall.md",
     "OS components/errno.md",
-    "os-161/os-161 syscalls.md",
     "os-161/sys-161.md",
     "os-161/os-161.md",
     "README.md",
@@ -272,8 +286,6 @@
     "Processes/program counter.md",
     "Threading/context switching.md",
     "OS components",
-    "Threading/ready queue.md",
-    "mips",
-    "Threading/thread.md"
+    "mips"
   ]
 }
