@@ -3,3 +3,5 @@ An exception is not like exceptions used in high-level languages. Instead it is 
 Exceptions can include
 - [[syscall|syscalls]]
 - interrupts
+
+In MIPS systems, info about exceptions can be gathered by checking values in [[coprocessor 0]].

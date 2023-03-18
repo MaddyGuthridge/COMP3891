@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "d050b382dd6fff26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/exception vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce8711b70cb2aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/exception codes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f55dfefa51e5afbb",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mips/coprocessor 0.md",
+                "file": "mips/exception vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mips/coprocessor 0.md",
+                "file": "mips/exception vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mips/coprocessor 0.md"
+                "file": "mips/exception vectors.md"
               }
             }
           }
@@ -172,13 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b291f939d1aa1af",
+  "active": "d050b382dd6fff26",
   "lastOpenFiles": [
+    "mips/coprocessor 0.md",
+    "mips/exception vectors.md",
+    "mips/exception codes.md",
+    "OS components/exception.md",
     "mips/MIPS R3000.md",
     "OS components/kernel.md",
-    "OS components/exception.md",
     "OS components/syscall.md",
-    "mips/coprocessor 0.md",
     "mips/branch delay.md",
     "Threading/threading issues.md",
     "Threading/semaphore.md",
@@ -199,8 +225,6 @@
     "Threading/spin lock.md",
     "Processes/process state.md",
     "Processes/process.md",
-    "COMP/OS/thread.md",
-    "COMP/OS/threading issues.md",
-    "COMP/OS/program counter.md"
+    "COMP/OS/thread.md"
   ]
 }
