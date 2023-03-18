@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mips/MIPS R3000.md",
+                "file": "mips/coprocessor 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55dfefa51e5afbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mips/MIPS R3000.md",
+                "file": "mips/coprocessor 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mips/MIPS R3000.md",
+                "file": "mips/coprocessor 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mips/MIPS R3000.md"
+                "file": "mips/coprocessor 0.md"
               }
             }
           }
@@ -162,13 +174,15 @@
   },
   "active": "9b291f939d1aa1af",
   "lastOpenFiles": [
-    "mips/branch delay.md",
     "mips/MIPS R3000.md",
+    "OS components/kernel.md",
+    "OS components/exception.md",
     "OS components/syscall.md",
+    "mips/coprocessor 0.md",
+    "mips/branch delay.md",
     "Threading/threading issues.md",
     "Threading/semaphore.md",
     "Threading/race condition.md",
-    "OS components/kernel.md",
     "OS components/execution mode.md",
     "OS components/mode switching.md",
     "OS components/responsibilities.md",
@@ -187,7 +201,6 @@
     "Processes/process.md",
     "COMP/OS/thread.md",
     "COMP/OS/threading issues.md",
-    "COMP/OS/program counter.md",
-    "COMP/OS/ready queue.md"
+    "COMP/OS/program counter.md"
   ]
 }
