@@ -4,3 +4,4 @@ I'd like to think that they're correct and accurate, but I doubt they're 100% ac
 
 ## Viewing
 - I wrote these notes in Obsidian. To get all the links working, you should clone the repository and open it with that.
+- You can also get it to work in VS Code, use the [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) extension

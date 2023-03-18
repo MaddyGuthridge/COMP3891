@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/kernel.md",
+                "file": "Threading/semaphore.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/execution modes.md",
+                "file": "OS components/syscall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/execution modes.md",
+                "file": "Threading/semaphore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/execution modes.md",
+                "file": "Threading/semaphore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/execution modes.md"
+                "file": "Threading/semaphore.md"
               }
             }
           }
@@ -160,26 +159,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed129a4c25777fdb",
+  "active": "e604b8522b05c1c8",
   "lastOpenFiles": [
+    "OS components/syscall.md",
+    "Threading/semaphore.md",
     "OS components/kernel.md",
-    "OS components/execution modes.md",
-    "OS components/syscalls.md",
-    "Processes/program counter.md",
-    "Threading/scheduler activations.md",
-    "Threading/context switching.md",
+    "OS components/execution mode.md",
+    "OS components/mode switching.md",
+    "OS components/responsibilities.md",
+    "README.md",
     "Threading/upcalls.md",
+    "Threading/scheduler activations.md",
+    "Processes/program counter.md",
+    "Threading/context switching.md",
     "OS components",
     "Threading/ready queue.md",
     "Threading/deadlock.md",
     "mips/branch delay.md",
     "mips",
     "Threading/thread.md",
-    "Threading/semaphore.md",
     "Threading/spin lock.md",
     "Processes/process state.md",
     "Processes/process.md",
-    "README.md",
     "Threading/threading issues.md",
     "COMP/OS/thread.md",
     "COMP/OS/threading issues.md",
