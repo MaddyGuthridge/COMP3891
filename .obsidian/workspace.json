@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "87432fd51030e9fb",
+        "id": "605289eef7aa7299",
         "type": "tabs",
         "children": [
           {
-            "id": "c33e967152c1aabc",
+            "id": "e604b8522b05c1c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threading/spin lock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af073f7e63e0cdc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/semaphore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c1618e8cf0787f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/upcalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5cefe7e804efbf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/deadlock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2830fdd91276b505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/scheduler activations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e025a6d5812c3dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/scheduler activations.md",
+                "file": "Threading/context switching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/scheduler activations.md",
+                "file": "Threading/context switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/scheduler activations.md",
+                "file": "Threading/context switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/scheduler activations.md"
+                "file": "Threading/context switching.md"
               }
             }
           }
@@ -204,14 +143,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e025a6d5812c3dd0",
+  "active": "e604b8522b05c1c8",
   "lastOpenFiles": [
-    "Threading/context switching.md",
-    "Threading/upcalls.md",
     "Threading/scheduler activations.md",
+    "Threading/upcalls.md",
+    "OS components/syscalls.md",
+    "OS components/kernel.md",
+    "OS components",
+    "Threading/context switching.md",
     "Threading/ready queue.md",
     "Threading/deadlock.md",
     "mips/branch delay.md",
