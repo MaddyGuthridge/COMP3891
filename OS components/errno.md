@@ -1,0 +1,1 @@
+Error number, used to give error messages to a user-level application if a [[syscall]] is unsuccessful.
