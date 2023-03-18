@@ -1,5 +1,5 @@
 ## Race condition
-Two [[thread]]s access same data (memory, files)
+Two [[thread]]s access same data (memory, files). See [[race condition]]
 
 ## Deadlock
 Two threads waiting to access same data (memory, files)
