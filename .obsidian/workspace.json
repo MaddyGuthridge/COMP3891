@@ -85,7 +85,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/file names.md",
+                "file": "File Systems/file system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a76cabad24d15bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/file system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d616ff34977028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/file.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file names.md",
+                "file": "File Systems/file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file names.md",
+                "file": "File Systems/file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/file names.md"
+                "file": "File Systems/file.md"
               }
             }
           }
@@ -280,9 +304,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea631540c41cbd8a",
+  "active": "59d616ff34977028",
   "lastOpenFiles": [
     "File Systems/file system.md",
+    "File Systems/file.md",
     "File Systems/file names.md",
     "Processes/process memory.md",
     "File Systems",
@@ -309,7 +334,6 @@
     "OS components/mode switching.md",
     "OS components/responsibilities.md",
     "Threading/upcalls.md",
-    "Threading/scheduler activations.md",
     "OS components",
     "mips"
   ]

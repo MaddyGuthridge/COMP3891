@@ -7,7 +7,7 @@ This abstraction provides
 | Uniform namespace                     | Assortment of drives, files, devices, and other things (or everything on UNIX-like systems) |
 | Hierarchy                             | A flat address space (array of blocks)                                                      |
 | Arbitrarily-sized files               | Fixed-size blocks                                                                           |
-| Symbolic file names                   | Numeric block addresses                                                                     |
+| Symbolic [[file names]]                   | Numeric block addresses                                                                     |
 | Contiguous address space inside files | Files framented all over the disk                                                           |
 | Access control                        | No access control                                                                           |
 
