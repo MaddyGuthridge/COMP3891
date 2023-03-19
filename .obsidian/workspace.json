@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/syscalls/reboot.md",
+                "file": "OS components/syscalls/open.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/syscalls/reboot.md",
+                "file": "OS components/syscalls/open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/syscalls/reboot.md",
+                "file": "OS components/syscalls/open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +186,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/syscalls/reboot.md"
+                "file": "OS components/syscalls/open.md"
               }
             }
+          },
+          {
+            "id": "669c2ee463494006",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,11 +219,11 @@
   },
   "active": "bb3fffb4e9fcceb5",
   "lastOpenFiles": [
-    "OS components/syscalls/open.md",
-    "OS components/syscalls/close.md",
-    "OS components/syscalls/dup2.md",
     "OS components/syscalls/fork.md",
+    "OS components/syscalls/dup2.md",
+    "OS components/syscalls/close.md",
     "OS components/syscalls/reboot.md",
+    "OS components/syscalls/open.md",
     "OS components/file descriptor.md",
     "OS components/syscall.md",
     "File Systems/file.md",

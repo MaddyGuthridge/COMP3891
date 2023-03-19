@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "newFileLocation": "current",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }
