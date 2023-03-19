@@ -19,9 +19,10 @@ Processes are
 ### Memory management
 - Pointer to text segment
 - Pointer to data segment
+- See [[process memory]]
 ### File management
 - Root directory
 - Working directory
-- File descriptors
+- [[file descriptor|File descriptors]]
 - User ID
 - Group ID
