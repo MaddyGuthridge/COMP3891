@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/syscalls/dup2.md",
+                "file": "OS components/syscalls/fork.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/syscalls/dup2.md",
+                "file": "OS components/syscalls/fork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/syscalls/dup2.md",
+                "file": "OS components/syscalls/fork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/syscalls/dup2.md"
+                "file": "OS components/syscalls/fork.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "bb3fffb4e9fcceb5",
   "lastOpenFiles": [
-    "OS components/syscalls/reboot.md",
     "OS components/syscalls/dup2.md",
+    "OS components/syscalls/reboot.md",
     "OS components/syscalls/close.md",
     "OS components/file descriptor.md",
     "OS components/syscalls/open.md",
