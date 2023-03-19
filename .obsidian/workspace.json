@@ -11,8 +11,24 @@
             "id": "e025a6d5812c3dd0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS components/syscalls/reboot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3fffb4e9fcceb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/syscalls/dup2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +37,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "File Systems/file system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3621cb04446e0bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "OS components/syscalls/open.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f61ebd8326bd9e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/syscalls/close.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42a2b3c9ed8c1192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/syscall.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/syscalls/open.md",
+                "file": "OS components/syscalls/dup2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/syscalls/open.md",
+                "file": "OS components/syscalls/dup2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/syscalls/open.md"
+                "file": "OS components/syscalls/dup2.md"
               }
             }
           }
@@ -156,12 +208,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab983e399689b9e1",
+  "active": "bb3fffb4e9fcceb5",
   "lastOpenFiles": [
-    "OS components/syscalls/fork.md",
-    "OS components/syscalls/open.md",
-    "os-161/emufs.md",
     "OS components/syscalls/reboot.md",
+    "OS components/syscalls/dup2.md",
+    "OS components/syscalls/close.md",
+    "OS components/file descriptor.md",
+    "OS components/syscalls/open.md",
+    "OS components/syscall.md",
+    "File Systems/file.md",
+    "File Systems/vnode.md",
+    "File Systems/file system.md",
+    "OS components/syscalls/fork.md",
+    "os-161/emufs.md",
     "OS components/syscalls",
     "Threading/scheduler activations.md",
     "os-161/sys-161.md",
@@ -174,20 +233,13 @@
     "mips/MIPS R3000.md",
     "Threading/race condition.md",
     "Processes/process memory.md",
-    "OS components/syscall.md",
     "OS components/mode switching.md",
     "OS components/kernel.md",
     "OS components/execution mode.md",
     "OS components/exception.md",
     "OS components/errno.md",
     "OS components",
-    "File Systems/file.md",
-    "File Systems/file system.md",
-    "File Systems/file names.md",
     "File Systems",
-    "Threading/context switching.md",
-    "Threading/upcalls.md",
-    "Threading/ready queue.md",
     "mips"
   ]
 }

@@ -1,6 +1,6 @@
-Opens a file, creating it if it doesn't exist.
+Opens a [[file]], creating it if it doesn't exist.
 
-Returns the 
+Returns a [[file descriptor]]. The OS must map between a [[process]]'s file descriptors and the corresponding [[vnode|vnodes]].
 
 ## In user-land
 ```c
