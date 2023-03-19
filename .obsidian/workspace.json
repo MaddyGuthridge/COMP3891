@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/syscalls/fork.md",
+                "file": "OS components/syscalls/open.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/syscalls/fork.md",
+                "file": "OS components/syscalls/open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/syscalls/fork.md",
+                "file": "OS components/syscalls/open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/syscalls/fork.md"
+                "file": "OS components/syscalls/open.md"
               }
             }
           }
@@ -210,16 +210,16 @@
   },
   "active": "bb3fffb4e9fcceb5",
   "lastOpenFiles": [
-    "OS components/syscalls/dup2.md",
-    "OS components/syscalls/reboot.md",
     "OS components/syscalls/close.md",
+    "OS components/syscalls/dup2.md",
+    "OS components/syscalls/fork.md",
+    "OS components/syscalls/reboot.md",
     "OS components/file descriptor.md",
     "OS components/syscalls/open.md",
     "OS components/syscall.md",
     "File Systems/file.md",
     "File Systems/vnode.md",
     "File Systems/file system.md",
-    "OS components/syscalls/fork.md",
     "os-161/emufs.md",
     "OS components/syscalls",
     "Threading/scheduler activations.md",
