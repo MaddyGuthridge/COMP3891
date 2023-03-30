@@ -1,0 +1,1 @@
+An index node, used in [[inode file system]]s to store information about a file/directory

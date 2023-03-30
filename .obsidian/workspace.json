@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89d290b7f35768e1",
+            "id": "4facb11ec75e6d4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/types/log-structured file systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "File Systems/types/log-structured file systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "File Systems/types/log-structured file systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "File Systems/types/log-structured file systems.md"
+              }
             }
           },
           {
@@ -148,13 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89d290b7f35768e1",
+  "active": "4facb11ec75e6d4e",
   "lastOpenFiles": [
+    "File Systems/inode.md",
+    "File Systems/vnode.md",
+    "File Systems/types/log-structured file systems.md",
+    "File Systems/types/inode file system.md",
+    "File Systems/file system.md",
+    "File Systems/types",
     "Processes/process.md",
     "OS components/syscall.md",
     "OS components/syscalls/close.md",
     "OS components/syscalls/open.md",
-    "File Systems/file system.md",
     "OS components/syscalls/read.md",
     "OS components/syscalls/write.md",
     "os-161/accessing program memory.md",
@@ -165,7 +178,6 @@
     "OS components/syscalls/reboot.md",
     "OS components/file descriptor.md",
     "File Systems/file.md",
-    "File Systems/vnode.md",
     "os-161/emufs.md",
     "OS components/syscalls",
     "Threading/scheduler activations.md",
@@ -175,9 +187,6 @@
     "os-161",
     "mips/exception vectors.md",
     "mips/exception codes.md",
-    "mips/coprocessor 0.md",
-    "mips/MIPS R3000.md",
-    "Threading/race condition.md",
     "OS components",
     "File Systems",
     "mips"

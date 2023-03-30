@@ -1,1 +1,1 @@
-Node on the virtual file system.
+Node on the virtual file system. A virtual representation of an [[inode]] on the disk.
