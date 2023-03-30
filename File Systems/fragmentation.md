@@ -1,0 +1,1 @@
+When a file is all over the place on the physical hard drive, it can make it slower, at least for HDD and tape storage. Doesn't matter so much for SSDs.

@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c0a66a9178317c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d63f525d7006e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/fragmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,9 +182,12 @@
   },
   "active": "4facb11ec75e6d4e",
   "lastOpenFiles": [
-    "File Systems/inode.md",
     "File Systems/vnode.md",
+    "File Systems/fragmentation.md",
+    "File Systems/clustering.md",
     "File Systems/types/log-structured file systems.md",
+    "Untitled",
+    "File Systems/inode.md",
     "File Systems/types/inode file system.md",
     "File Systems/file system.md",
     "File Systems/types",
@@ -185,8 +212,6 @@
     "os-161/os-161.md",
     "os-161/os-161 syscalls.md",
     "os-161",
-    "mips/exception vectors.md",
-    "mips/exception codes.md",
     "OS components",
     "File Systems",
     "mips"
