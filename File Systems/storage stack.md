@@ -1,4 +1,4 @@
 - **FD table** - table of file descriptors per process
 - **OF table** - table of open files
 - **VFS** - virtual file system, bringing all the file systems together (eg mounting USB drives)
-- **FS** - actual file system, managing the file hierarchy of a particular device
+- **FS** - actual [[file system]], managing the file hierarchy of a particular device
