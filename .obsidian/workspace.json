@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/cache.md",
+                "file": "File Systems/buffer cache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c80345e2737dafc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/case studies/ext2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/cache.md",
+                "file": "File Systems/case studies/ext2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/cache.md",
+                "file": "File Systems/case studies/ext2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/cache.md"
+                "file": "File Systems/case studies/ext2.md"
               }
             }
           },
@@ -169,17 +181,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cca0160080b56c4d",
+  "active": "c80345e2737dafc9",
   "lastOpenFiles": [
+    "File Systems/buffer cache.md",
+    "File Systems/case studies/ext2.md",
+    "File Systems/case studies",
+    "File Systems/block.md",
     "File Systems/vnode.md",
-    "File Systems/cache.md",
     "File Systems/storage stack.md",
     "OS components/syscalls/fork.md",
     "OS components/syscalls/dup2.md",
     "OS components/syscalls/close.md",
     "File Systems/virtual file system.md",
     "File Systems/file system.md",
-    "File Systems/block.md",
     "File Systems/clustering.md",
     "File Systems/file.md",
     "File Systems/file names.md",
@@ -197,7 +211,6 @@
     "File Systems/file allocation/linked list allocation.md",
     "File Systems/file allocation",
     "os-161/emufs.md",
-    "os-161/accessing program memory.md",
     "OS components/syscalls",
     "File Systems/types",
     "File Systems",
