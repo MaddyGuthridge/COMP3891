@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/case studies/ext2.md",
+                "file": "File Systems/file allocation/inode-based allocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/case studies/ext2.md",
+                "file": "File Systems/file allocation/inode-based allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/case studies/ext2.md",
+                "file": "File Systems/file allocation/inode-based allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/case studies/ext2.md"
+                "file": "File Systems/file allocation/inode-based allocation.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "c80345e2737dafc9",
   "lastOpenFiles": [
-    "File Systems/buffer cache.md",
     "File Systems/case studies/ext2.md",
+    "File Systems/buffer cache.md",
     "File Systems/case studies",
     "File Systems/block.md",
     "File Systems/vnode.md",
