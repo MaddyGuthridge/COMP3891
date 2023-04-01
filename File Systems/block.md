@@ -1,0 +1,1 @@
+A block is a collection of bytes. Disks are split into blocks, and [[file system]]s track which files belong to which blocks.

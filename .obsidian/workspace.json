@@ -8,199 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41c1964d75150cde",
+            "id": "744ac54660d05130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "File Systems/file allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "652709ea585027d8",
+            "id": "78c5005c44fa2734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os-161/os-161.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4eff14e4a2b8858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "os-161/sys-161.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90559d178fb1e50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee93bb8ff5d337d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d54309cea624e4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea631540c41cbd8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a76cabad24d15bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d616ff34977028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7712dc5022f17e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/storage stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3579e05039bfc72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c925c30213349e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/errno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b291f939d1aa1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/coprocessor 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d050b382dd6fff26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/exception.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ce8711b70cb2aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/exception codes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55dfefa51e5afbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/kernel.md",
+                "file": "File Systems/block.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file system types.md",
+                "file": "File Systems/file allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file system types.md",
+                "file": "File Systems/file allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/file system types.md"
+                "file": "File Systems/file allocation.md"
               }
             }
           },
@@ -337,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3579e05039bfc72",
+  "active": "744ac54660d05130",
   "lastOpenFiles": [
+    "File Systems/block.md",
+    "File Systems/file allocation.md",
+    "File Systems/clustering.md",
     "File Systems/file system.md",
     "File Systems/file system types.md",
     "File Systems/storage stack.md",
@@ -360,14 +194,11 @@
     "File Systems/types",
     "File Systems/inode.md",
     "File Systems/fragmentation.md",
-    "File Systems/clustering.md",
     "File Systems/file names.md",
     "File Systems/file.md",
     "Processes/process memory.md",
     "File Systems",
     "Processes/process.md",
-    "os-161/os-161 syscalls.md",
-    "OS components/syscall.md",
     "os-161",
     "OS components",
     "mips"

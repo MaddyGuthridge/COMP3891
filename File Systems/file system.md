@@ -20,3 +20,9 @@ A good file system will optimise for the following things:
 - Rapid access
 - Ease of update
 - Economy of storage
+
+## File system must track
+- Which blocks on disk belong to which files
+- The order of blocks that form the file
+- Which blocks are free for allocation
+- Metadata for all files
