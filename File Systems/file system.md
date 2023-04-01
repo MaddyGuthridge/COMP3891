@@ -8,7 +8,7 @@ This abstraction provides
 | Hierarchy                             | A flat address space (array of blocks)                                                      |
 | Arbitrarily-sized files               | Fixed-size blocks                                                                           |
 | Symbolic [[file names]]                   | Numeric block addresses                                                                     |
-| Contiguous address space inside files | Files framented all over the disk                                                           |
+| Contiguous address space inside files | Files framented all over the disk                                                          |
 | Access control                        | No access control                                                                           |
 
 A file system can also provide tools for formatting, defragmentation, backup, consistency checking, and error correction.
@@ -24,5 +24,5 @@ A good file system will optimise for the following things:
 ## File system must track
 - Which blocks on disk belong to which files
 - The order of blocks that form the file
-- Which blocks are free for allocation
+- Which blocks are free for allocation  (see [[file allocation]])
 - Metadata for all files
