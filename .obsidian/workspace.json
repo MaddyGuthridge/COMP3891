@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/virtual file system.md",
+                "file": "File Systems/vnode.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/virtual file system.md",
+                "file": "File Systems/vnode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/virtual file system.md",
+                "file": "File Systems/vnode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/virtual file system.md"
+                "file": "File Systems/vnode.md"
               }
             }
           },
@@ -170,14 +170,14 @@
   },
   "active": "9b322a998befc319",
   "lastOpenFiles": [
+    "File Systems/virtual file system.md",
+    "File Systems/vnode.md",
     "File Systems/file system.md",
     "File Systems/storage stack.md",
-    "File Systems/virtual file system.md",
     "File Systems/block.md",
     "File Systems/clustering.md",
     "File Systems/file.md",
     "File Systems/file names.md",
-    "File Systems/vnode.md",
     "File Systems/inode.md",
     "File Systems/fragmentation.md",
     "File Systems/file system types.md",
