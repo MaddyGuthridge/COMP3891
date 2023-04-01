@@ -19,3 +19,11 @@ Used by almost all modern file systems.
 Difficult to keep track of free space
 - Use a linked list of free blocks on the disk
 - Keep a bitmap of free blocks and free inodes
+
+## Implementing directories
+- Directories stored like normal files
+- The content of the file contains information about the children, including:
+	- File name
+	- Attributes
+	- File inode number
+Essentially a directory maps string names to inode numbers for all their child nodes.
