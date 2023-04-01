@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/storage stack.md",
+                "file": "File Systems/vnode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca0160080b56c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/cache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/storage stack.md",
+                "file": "File Systems/cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/storage stack.md",
+                "file": "File Systems/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/storage stack.md"
+                "file": "File Systems/cache.md"
               }
             }
           },
@@ -156,14 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bb58a92e3c59d83",
+  "active": "cca0160080b56c4d",
   "lastOpenFiles": [
+    "File Systems/vnode.md",
+    "File Systems/cache.md",
+    "File Systems/storage stack.md",
     "OS components/syscalls/fork.md",
     "OS components/syscalls/dup2.md",
     "OS components/syscalls/close.md",
-    "File Systems/storage stack.md",
     "File Systems/virtual file system.md",
-    "File Systems/vnode.md",
     "File Systems/file system.md",
     "File Systems/block.md",
     "File Systems/clustering.md",
@@ -184,7 +198,6 @@
     "File Systems/file allocation",
     "os-161/emufs.md",
     "os-161/accessing program memory.md",
-    "OS components/syscalls/write.md",
     "OS components/syscalls",
     "File Systems/types",
     "File Systems",
