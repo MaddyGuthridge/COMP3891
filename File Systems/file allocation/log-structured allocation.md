@@ -23,6 +23,8 @@ To prevent data loss if we lose the map, we write the map to two places, so that
 	- "Copy and compact" the new data backwards so that it can make more contiguous space
 		- Slow to create since we need to rewrite so much data
 
+***TODO***: This is likely incorrect, check this
+
 ## Data recovery
 - Checkpoints are regularly created, with information about the table
 - We can just read through the written data past the last checkpoint and apply the changes

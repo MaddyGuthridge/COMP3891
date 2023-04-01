@@ -1,4 +1,4 @@
-Use a separate table for each file.
+Use a separate table ([[inode]]) for each file.
 
 - Only keep the table for open files in memory
 - Offers fast random access for files
@@ -14,3 +14,8 @@ Used by almost all modern file systems.
 
 ## Consistency checking
 - We need to make sure everything is ok if we unexpectedly lost power
+
+## Free-space management
+Difficult to keep track of free space
+- Use a linked list of free blocks on the disk
+- Keep a bitmap of free blocks and free inodes

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "744ac54660d05130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file allocation/log-structured allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64c86cc8cc9b54dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/file allocation/dynamic allocation.md",
+                "file": "File Systems/inode.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file allocation/log-structured allocation.md",
+                "file": "File Systems/file allocation/inode-based allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file allocation/log-structured allocation.md",
+                "file": "File Systems/file allocation/inode-based allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/file allocation/log-structured allocation.md"
+                "file": "File Systems/file allocation/inode-based allocation.md"
               }
             }
           },
@@ -216,17 +205,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744ac54660d05130",
+  "active": "9b322a998befc319",
   "lastOpenFiles": [
-    "File Systems/file allocation/dynamic allocation.md",
-    "File Systems/file allocation/inode-based allocation.md",
-    "File Systems/types/inode file system.md",
     "File Systems/inode.md",
+    "File Systems/inode file system.md",
+    "File Systems/file allocation/inode-based allocation.md",
+    "File Systems/file allocation/dynamic allocation.md",
+    "File Systems/file allocation/file allocation.md",
+    "File Systems/file allocation/contiguous allocation.md",
+    "File Systems/file allocation/log-structured allocation.md",
+    "File Systems/types/inode file system.md",
     "File Systems/file allocation/file access table allocation.md",
     "File Systems/file allocation/linked list allocation.md",
     "File Systems/block.md",
-    "File Systems/file allocation/contiguous allocation.md",
-    "File Systems/file allocation/file allocation.md",
     "File Systems/file allocation",
     "File Systems/fragmentation.md",
     "File Systems/file system.md",
@@ -244,8 +235,6 @@
     "OS components/syscalls/dup2.md",
     "OS components/syscalls/close.md",
     "OS components/syscalls",
-    "OS components/file descriptor.md",
-    "File Systems/vnode.md",
     "File Systems/types",
     "File Systems",
     "os-161",
