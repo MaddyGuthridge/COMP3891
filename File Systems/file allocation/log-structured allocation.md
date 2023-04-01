@@ -1,7 +1,7 @@
 ## Motivation
-- In the 90s it was becoming cheaper and cheaper to download lots of RAM
+- In the 90s it was becoming cheaper and cheaper to [download lots of RAM](https://downloadmoreram.com/)
 - As such, more and more caching used
-- [[inode file system]]s not very optimised for lots of small files, since each file takes a ton of operations.
+- [[inode-based allocation]] is not very optimised for lots of small files, since each file takes a ton of operations.
 
 ## Solution
 Have a log-based file system, which sequentially writes all the changes to the disk in-order, making the updates sequential.

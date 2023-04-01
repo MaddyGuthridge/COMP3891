@@ -1,0 +1,4 @@
+- [[linked list allocation]]
+- [[file access table allocation]]
+- [[inode-based allocation]]
+- [[log-structured allocation]]
