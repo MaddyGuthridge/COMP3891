@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/vnode.md",
+                "file": "os-161/emufs.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
+                "file": "File Systems/file system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
+                "file": "os-161/emufs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
+                "file": "os-161/emufs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md"
+                "file": "os-161/emufs.md"
               }
             }
           },
@@ -181,36 +180,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c80345e2737dafc9",
+  "active": "8bb58a92e3c59d83",
   "lastOpenFiles": [
+    "os-161/os-161.md",
+    "os-161/os-161 syscalls.md",
+    "os-161/sys-161.md",
+    "mips/MIPS R3000.md",
+    "File Systems/vnode.md",
+    "File Systems/file system.md",
+    "File Systems/file system types.md",
+    "File Systems/file allocation/inode-based allocation.md",
     "File Systems/case studies/ext2.md",
     "File Systems/buffer cache.md",
     "File Systems/case studies",
     "File Systems/block.md",
-    "File Systems/vnode.md",
     "File Systems/storage stack.md",
     "OS components/syscalls/fork.md",
     "OS components/syscalls/dup2.md",
     "OS components/syscalls/close.md",
     "File Systems/virtual file system.md",
-    "File Systems/file system.md",
     "File Systems/clustering.md",
     "File Systems/file.md",
     "File Systems/file names.md",
     "File Systems/inode.md",
     "File Systems/fragmentation.md",
-    "File Systems/file system types.md",
-    "File Systems/file allocation/inode-based allocation.md",
     "File Systems/inode file system.md",
     "File Systems/file allocation/dynamic allocation.md",
     "File Systems/file allocation/file allocation.md",
     "File Systems/file allocation/contiguous allocation.md",
     "File Systems/file allocation/log-structured allocation.md",
-    "File Systems/types/inode file system.md",
-    "File Systems/file allocation/file access table allocation.md",
-    "File Systems/file allocation/linked list allocation.md",
     "File Systems/file allocation",
-    "os-161/emufs.md",
     "OS components/syscalls",
     "File Systems/types",
     "File Systems",
