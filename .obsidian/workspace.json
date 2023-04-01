@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os-161/emufs.md",
+                "file": "OS components/file descriptor.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os-161/emufs.md",
+                "file": "OS components/file descriptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os-161/emufs.md",
+                "file": "OS components/file descriptor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os-161/emufs.md"
+                "file": "OS components/file descriptor.md"
               }
             }
           },
@@ -182,6 +182,9 @@
   },
   "active": "8bb58a92e3c59d83",
   "lastOpenFiles": [
+    "OS components/kernel.md",
+    "os-161/accessing program memory.md",
+    "os-161/emufs.md",
     "os-161/os-161.md",
     "os-161/os-161 syscalls.md",
     "os-161/sys-161.md",
@@ -206,9 +209,6 @@
     "File Systems/fragmentation.md",
     "File Systems/inode file system.md",
     "File Systems/file allocation/dynamic allocation.md",
-    "File Systems/file allocation/file allocation.md",
-    "File Systems/file allocation/contiguous allocation.md",
-    "File Systems/file allocation/log-structured allocation.md",
     "File Systems/file allocation",
     "OS components/syscalls",
     "File Systems/types",

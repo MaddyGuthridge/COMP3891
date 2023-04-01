@@ -6,3 +6,5 @@ Default file descriptors:
 - `2` - `stderr`
 
 New file descriptors are created when using the [[open]] syscall, and destroyed when using the [[close]] syscall.
+
+File descriptors are unique to each process, but there could be duplication between processes.
