@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b322a998befc319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/storage stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8bb58a92e3c59d83",
             "type": "leaf",
             "state": {
@@ -168,12 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b322a998befc319",
+  "active": "8bb58a92e3c59d83",
   "lastOpenFiles": [
+    "OS components/syscalls/fork.md",
+    "OS components/syscalls/dup2.md",
+    "OS components/syscalls/close.md",
+    "File Systems/storage stack.md",
     "File Systems/virtual file system.md",
     "File Systems/vnode.md",
     "File Systems/file system.md",
-    "File Systems/storage stack.md",
     "File Systems/block.md",
     "File Systems/clustering.md",
     "File Systems/file.md",
@@ -194,9 +185,6 @@
     "os-161/emufs.md",
     "os-161/accessing program memory.md",
     "OS components/syscalls/write.md",
-    "OS components/syscalls/reboot.md",
-    "OS components/syscalls/read.md",
-    "OS components/syscalls/open.md",
     "OS components/syscalls",
     "File Systems/types",
     "File Systems",
