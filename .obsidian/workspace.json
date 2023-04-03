@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8fca79e5ea110f55",
+        "id": "4bbf507a70625498",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb58a92e3c59d83",
+            "id": "4c0a66a9178317c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/file descriptor.md",
+                "file": "File Systems/clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cca0160080b56c4d",
+            "id": "f5d63f525d7006e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/buffer cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c80345e2737dafc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
+                "file": "File Systems/fragmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/file descriptor.md",
+                "file": "File Systems/clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/file descriptor.md",
+                "file": "File Systems/clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/file descriptor.md"
+                "file": "File Systems/clustering.md"
               }
             }
           },
           {
-            "id": "d1a1d34e23097b8d",
+            "id": "669c2ee463494006",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -171,50 +159,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8bb58a92e3c59d83",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
-    "OS components/kernel.md",
-    "os-161/accessing program memory.md",
-    "os-161/emufs.md",
-    "os-161/os-161.md",
-    "os-161/os-161 syscalls.md",
-    "os-161/sys-161.md",
-    "mips/MIPS R3000.md",
-    "File Systems/vnode.md",
-    "File Systems/file system.md",
-    "File Systems/file system types.md",
-    "File Systems/file allocation/inode-based allocation.md",
-    "File Systems/case studies/ext2.md",
-    "File Systems/buffer cache.md",
-    "File Systems/case studies",
-    "File Systems/block.md",
-    "File Systems/storage stack.md",
-    "OS components/syscalls/fork.md",
-    "OS components/syscalls/dup2.md",
-    "OS components/syscalls/close.md",
+    "File Systems/types/log-structured file systems.md",
     "File Systems/virtual file system.md",
-    "File Systems/clustering.md",
-    "File Systems/file.md",
-    "File Systems/file names.md",
-    "File Systems/inode.md",
-    "File Systems/fragmentation.md",
-    "File Systems/inode file system.md",
+    "File Systems/storage stack.md",
+    "File Systems/file system types.md",
+    "File Systems/file allocation/log-structured allocation.md",
+    "File Systems/file allocation/linked list allocation.md",
+    "File Systems/file allocation/inode-based allocation.md",
+    "File Systems/file allocation/file allocation.md",
+    "File Systems/file allocation/file access table allocation.md",
     "File Systems/file allocation/dynamic allocation.md",
+    "File Systems/file allocation/contiguous allocation.md",
     "File Systems/file allocation",
-    "OS components/syscalls",
+    "File Systems/case studies/ext2.md",
+    "File Systems/case studies",
+    "File Systems/buffer cache.md",
+    "File Systems/block.md",
+    "File Systems/vnode.md",
+    "File Systems/fragmentation.md",
+    "File Systems/clustering.md",
+    "Untitled",
+    "File Systems/inode.md",
+    "File Systems/types/inode file system.md",
+    "File Systems/file system.md",
     "File Systems/types",
-    "File Systems",
+    "Processes/process.md",
+    "OS components/syscall.md",
+    "OS components/syscalls/close.md",
+    "OS components/syscalls/open.md",
+    "OS components/syscalls/read.md",
+    "OS components/syscalls/write.md",
+    "OS components/syscalls",
     "os-161",
     "OS components",
+    "File Systems",
     "mips"
   ]
 }
