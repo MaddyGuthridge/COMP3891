@@ -5,8 +5,44 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Page",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "MIPS",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "FIle system",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "Thread",
+      "color": {
+        "a": 1,
+        "rgb": 6082262
+      }
+    },
+    {
+      "query": "Syscall",
+      "color": {
+        "a": 1,
+        "rgb": 10050774
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 197,
   "scale": 0.3312465159596272,
-  "close": true
+  "close": false
 }
