@@ -1,1 +1,1 @@
-Close a file given its [[file descriptor]].
+A [[syscall]] which closes a file given its [[file descriptor]].

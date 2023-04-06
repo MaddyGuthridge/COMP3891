@@ -1,4 +1,4 @@
-Controls the power of the system.
+A [[syscall]] to control the power of the system.
 
 ```c
 int reboot(int code);

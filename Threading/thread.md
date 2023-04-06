@@ -17,5 +17,5 @@ Threads are:
 [[threading issues]]
 
 ## User-level threads
-- Some programming languages use their own scheduler to do concurrency (eg Python, which is single-threaded)
+- Some programming languages use their own scheduler to do concurrency (eg Python, which is single-threaded, or Go which is similar)
 - Sometimes they can use [[upcalls]] to link things together

@@ -1,5 +1,6 @@
 Exception codes are used to represent the kind of [[exception]] that was given to the OS. They can be found in the `c0_cause` register of [[coprocessor 0]].
 
+## List of exception codes in [[MIPS]]
 | Value | Meaning                  |
 | ----- | ------------------------ |
 | 6     | Bus error                |

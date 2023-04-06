@@ -11,16 +11,24 @@
             "id": "4c0a66a9178317c6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d213af9e5ea3e76",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/file allocation/log-structured allocation.md",
+                "file": "File Systems/case studies/ext2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7a086ed91cbed02",
+            "id": "88dfe36750746cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,53 +38,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1d32946cb8b819c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Page tables/page table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd94545069fb741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Page tables/virtual memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "122928a7265b7a81",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d665af09f6825a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/MIPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,38 +172,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122928a7265b7a81",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
-    "Page tables/page table.md",
+    "OS components/syscalls/write.md",
+    "OS components/syscalls/reboot.md",
+    "OS components/syscalls/read.md",
+    "OS components/syscalls/open.md",
+    "OS components/syscalls/lseek.md",
+    "OS components/syscalls/fork.md",
+    "OS components/syscalls/dup2.md",
+    "OS components/syscalls/close.md",
+    "OS components/syscall.md",
+    "File Systems/case studies/ext2.md",
+    "File Systems/case studies/ext3.md",
+    "Threading/thread.md",
     "mips/MIPS.md",
+    "File Systems/file allocation/log-structured allocation.md",
+    "mips/MIPS R3000.md",
+    "mips/exception vectors.md",
+    "mips/exception codes.md",
+    "mips/branch delay.md",
     "mips/coprocessor 0.md",
+    "Page tables/page table.md",
     "Page tables/levels of translation.md",
     "Page tables/physical memory.md",
     "Page tables/virtual memory.md",
-    "File Systems/case studies/ext3.md",
     "Untitled",
     "Page tables",
-    "File Systems/case studies/ext2.md",
-    "File Systems/file allocation/log-structured allocation.md",
     "File Systems/fragmentation.md",
     "File Systems/clustering.md",
     "File Systems/types/log-structured file systems.md",
-    "File Systems/virtual file system.md",
-    "File Systems/storage stack.md",
-    "File Systems/file system types.md",
-    "File Systems/file allocation/linked list allocation.md",
-    "File Systems/file allocation/inode-based allocation.md",
-    "File Systems/file allocation/file allocation.md",
-    "File Systems/file allocation/file access table allocation.md",
-    "File Systems/file allocation/dynamic allocation.md",
-    "File Systems/file allocation/contiguous allocation.md",
     "File Systems/file allocation",
     "File Systems/case studies",
-    "File Systems/buffer cache.md",
-    "File Systems/block.md",
-    "File Systems/vnode.md",
-    "File Systems/inode.md",
-    "File Systems/types/inode file system.md",
     "File Systems/types",
     "OS components/syscalls",
     "os-161",

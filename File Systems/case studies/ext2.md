@@ -1,6 +1,6 @@
 Extended File System 2
 
-[[inode]]-based [[file system]], evolved from the Minix filesystem.
+[[inode]]-based [[file system]], which evolved from the Minix filesystem.
 
 ## Features
 - Configurable block size (set at file system creation)

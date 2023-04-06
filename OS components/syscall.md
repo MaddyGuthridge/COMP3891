@@ -8,13 +8,13 @@ There are hundreds of them, but these are the ones that you might want to know:
 - [[fork]] - create a new process
 - `waitpid` - wait for a process with the given PID to exit
 - `execve` - replace the current process with the given process
-	- To start a new process, you should `fork` then `execve`
+	- To start a new process, you should [[fork]] then `execve`
 - `exit` - close the program
 - [[open]] - create a new file or open an existing file
 - [[reboot]] - reboot the system
 
 To see more info on Linux syscalls, run `man syscall`
 
-## Difference to function calls
+## Why not directly call functions in the Kernel?
 
 Much more secure - kernel can ensure requests are legal etc etc

@@ -1,4 +1,4 @@
-Opens a [[file]], creating it if it doesn't exist.
+A [[syscall]] which opens a [[file]], potentially creating it if it doesn't exist.
 
 Returns a [[file descriptor]]. The OS must map between a [[process]]'s file descriptors and the corresponding [[vnode|vnodes]].
 
@@ -8,5 +8,7 @@ int open(const char *filename, int flags, mode_t mode);
 ```
 
 ## Flags
+Options while interacting with the file
 
-TODO
+## Mode
+Options to associate with the file (`drwxrwxrwx`)
