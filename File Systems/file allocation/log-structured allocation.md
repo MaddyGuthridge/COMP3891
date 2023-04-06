@@ -14,7 +14,6 @@ Hence we use a map of locations:
 To prevent data loss if we lose the map, we write the map to two places, so that there is always at least one version that is reliable.
 
 ## Issues
-- Read operations are **❄️ FREEZINGLY SLOW ❄️** if files are all over the place
 - Need to reclaim space, which requires a cleaner
 	- Use a "reach-ability" analysis to find deleted nodes
 - You can then go and fill the data:
@@ -23,7 +22,7 @@ To prevent data loss if we lose the map, we write the map to two places, so that
 	- "Copy and compact" the new data backwards so that it can make more contiguous space
 		- Slow to create since we need to rewrite so much data
 
-***TODO***: This is likely incorrect, check this
+As utilisation increases, cleaning takes longer and longer.
 
 ## Data recovery
 - Checkpoints are regularly created, with information about the table
@@ -31,4 +30,9 @@ To prevent data loss if we lose the map, we write the map to two places, so that
 
 ## Performance
 - Almost an order of magnitude faster when writing lots of files in order, according to the people that made it™
-- Not worth the effort in the real world (random writes to random files all the time)
+- Roughly the same as [[inode-based allocation]] in reality
+
+## Impact
+
+- File systems like ZFS and BTRFS use "snapshots"
+- File systems like ext3 use journaling.

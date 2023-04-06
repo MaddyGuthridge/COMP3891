@@ -13,25 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/clustering.md",
+                "file": "File Systems/file allocation/log-structured allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5d63f525d7006e4",
+            "id": "c7a086ed91cbed02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/fragmentation.md",
+                "file": "File Systems/case studies/ext3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1d32946cb8b819c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page tables/page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccd94545069fb741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page tables/virtual memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "122928a7265b7a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page tables/page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d665af09f6825a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page tables/levels of translation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/clustering.md",
+                "file": "Page tables/levels of translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/clustering.md",
+                "file": "Page tables/levels of translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/clustering.md"
+                "file": "Page tables/levels of translation.md"
               }
             }
           },
@@ -168,13 +217,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0a66a9178317c6",
+  "active": "5d665af09f6825a5",
   "lastOpenFiles": [
+    "Page tables/page table.md",
+    "Page tables/levels of translation.md",
+    "Page tables/physical memory.md",
+    "Page tables/virtual memory.md",
+    "File Systems/case studies/ext3.md",
+    "Untitled",
+    "Page tables",
+    "File Systems/case studies/ext2.md",
+    "File Systems/file allocation/log-structured allocation.md",
+    "File Systems/fragmentation.md",
+    "File Systems/clustering.md",
     "File Systems/types/log-structured file systems.md",
     "File Systems/virtual file system.md",
     "File Systems/storage stack.md",
     "File Systems/file system types.md",
-    "File Systems/file allocation/log-structured allocation.md",
     "File Systems/file allocation/linked list allocation.md",
     "File Systems/file allocation/inode-based allocation.md",
     "File Systems/file allocation/file allocation.md",
@@ -182,24 +241,15 @@
     "File Systems/file allocation/dynamic allocation.md",
     "File Systems/file allocation/contiguous allocation.md",
     "File Systems/file allocation",
-    "File Systems/case studies/ext2.md",
     "File Systems/case studies",
     "File Systems/buffer cache.md",
     "File Systems/block.md",
     "File Systems/vnode.md",
-    "File Systems/fragmentation.md",
-    "File Systems/clustering.md",
-    "Untitled",
     "File Systems/inode.md",
     "File Systems/types/inode file system.md",
     "File Systems/file system.md",
     "File Systems/types",
     "Processes/process.md",
-    "OS components/syscall.md",
-    "OS components/syscalls/close.md",
-    "OS components/syscalls/open.md",
-    "OS components/syscalls/read.md",
-    "OS components/syscalls/write.md",
     "OS components/syscalls",
     "os-161",
     "OS components",

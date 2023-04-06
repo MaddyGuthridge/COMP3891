@@ -1,0 +1,1 @@
+A page table is a bunch of pages of memory, used to map between [[virtual memory]] and [[physical memory]].
