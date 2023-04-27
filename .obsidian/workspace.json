@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/multiprogramming.md",
+                "file": "Memory Management/frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer components/monoprogramming.md",
+                "file": "Concepts/monoprogramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer components/BIOS.md",
+                "file": "Concepts/BIOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,14 +83,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/kernel.md",
+                "file": "Concepts/multiprogramming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/multiprogramming.md",
+                "file": "Concepts/multiprogramming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/multiprogramming.md",
+                "file": "Concepts/multiprogramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/multiprogramming.md"
+                "file": "Concepts/multiprogramming.md"
               }
             }
           },
@@ -227,17 +227,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "267f5bdea4413d74",
+  "active": "82404caeba33518c",
   "lastOpenFiles": [
+    "Memory Management/levels of translation.md",
     "Memory Management/memory management.md",
     "Memory Management/Page tables/hashed page table.md",
-    "Memory Management/Page tables/page table.md",
-    "Memory Management/multiprogramming.md",
-    "Computer components/monoprogramming.md",
-    "Computer components/BIOS.md",
-    "Computer components",
     "OS components/kernel.md",
+    "Memory Management/frame.md",
+    "Concepts/fragmentation.md",
     "Memory Management/memory resources.md",
+    "Concepts/multiprogramming.md",
+    "Memory Management/Page tables/page table.md",
+    "Concepts/monoprogramming.md",
+    "Concepts/BIOS.md",
+    "Concepts",
     "Memory Management/virtual memory.md",
     "Memory Management/swap.md",
     "OS components/drivers.md",
@@ -254,9 +257,6 @@
     "OS components/syscalls/fork.md",
     "OS components/syscalls/dup2.md",
     "OS components/syscalls/close.md",
-    "OS components/syscall.md",
-    "File Systems/case studies/ext2.md",
-    "Threading/thread.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
