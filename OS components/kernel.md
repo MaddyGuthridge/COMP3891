@@ -10,3 +10,4 @@ An OS kernel must
 - Support users (potentially):
 	- Creation
 	- Management of their processes
+- Be able to load [[drivers]] in order to support other hardware

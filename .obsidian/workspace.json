@@ -23,19 +23,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/virtual memory.md",
+                "file": "Memory Management/memory management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eed034ad4a7c2afd",
+            "id": "71bac9b4646c7f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/memory resources.md",
+                "file": "Memory Management/monoprogramming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e88fff67cd249f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer components/BIOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processes/process memory.md",
+                "file": "OS components/kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processes/process memory.md",
+                "file": "Memory Management/memory management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processes/process memory.md",
+                "file": "Memory Management/memory management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processes/process memory.md"
+                "file": "Memory Management/memory management.md"
               }
             }
           },
@@ -191,13 +203,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82404caeba33518c",
+  "active": "ae0ef6860f91c70e",
   "lastOpenFiles": [
-    "Processes/process.md",
+    "Memory Management/monoprogramming.md",
     "Memory Management/memory management.md",
+    "Computer components/BIOS.md",
+    "Computer components",
+    "OS components/kernel.md",
     "Memory Management/memory resources.md",
-    "Memory Management/page file.md",
     "Memory Management/virtual memory.md",
+    "Memory Management/swap.md",
+    "OS components/drivers.md",
+    "Processes/process memory.md",
+    "Processes/process.md",
+    "Memory Management/page file.md",
     "Memory Management/Page tables/page table.md",
     "File Systems/case studies/ext3.md",
     "Memory Management",
@@ -214,12 +233,6 @@
     "Threading/thread.md",
     "mips/MIPS.md",
     "File Systems/file allocation/log-structured allocation.md",
-    "mips/MIPS R3000.md",
-    "mips/exception vectors.md",
-    "mips/exception codes.md",
-    "mips/branch delay.md",
-    "mips/coprocessor 0.md",
-    "Memory Management/levels of translation.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
@@ -227,7 +240,6 @@
     "OS components/syscalls",
     "os-161",
     "OS components",
-    "File Systems",
-    "mips"
+    "File Systems"
   ]
 }
