@@ -23,7 +23,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Memory Management/Page tables/page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b957126e86dbc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Memory Management/memory management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "267f5bdea4413d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/multiprogramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/monoprogramming.md",
+                "file": "Computer components/monoprogramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/memory management.md",
+                "file": "Memory Management/multiprogramming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/memory management.md",
+                "file": "Memory Management/multiprogramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/memory management.md"
+                "file": "Memory Management/multiprogramming.md"
               }
             }
           },
@@ -203,10 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae0ef6860f91c70e",
+  "active": "267f5bdea4413d74",
   "lastOpenFiles": [
-    "Memory Management/monoprogramming.md",
     "Memory Management/memory management.md",
+    "Memory Management/Page tables/hashed page table.md",
+    "Memory Management/Page tables/page table.md",
+    "Memory Management/multiprogramming.md",
+    "Computer components/monoprogramming.md",
     "Computer components/BIOS.md",
     "Computer components",
     "OS components/kernel.md",
@@ -217,7 +244,6 @@
     "Processes/process memory.md",
     "Processes/process.md",
     "Memory Management/page file.md",
-    "Memory Management/Page tables/page table.md",
     "File Systems/case studies/ext3.md",
     "Memory Management",
     "OS components/syscalls/write.md",
@@ -231,8 +257,6 @@
     "OS components/syscall.md",
     "File Systems/case studies/ext2.md",
     "Threading/thread.md",
-    "mips/MIPS.md",
-    "File Systems/file allocation/log-structured allocation.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",

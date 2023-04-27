@@ -17,6 +17,5 @@ An operating system needs to manage memory
 
 ## Kinds of memory management
 
-Most modern operating systems implement a [[page table]] and/or a [[swap]] space. 
-
-Some low-level or ancient one's don't (eg embedded devices). They might keep the OS in ROM.
+- [[multiprogramming|Multiprogramming]]: design OS for multi-tasking
+- [[monoprogramming|Monoprogramming]]: design OS for a single task
