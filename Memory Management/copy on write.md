@@ -1,0 +1,1 @@
+When [[physical memory]] that is shared between multiple [[process|processes]], it needs to be ensured that if the memory is written to, it stops being shared. Hence copy on write -- the memory is only copied when written to.
