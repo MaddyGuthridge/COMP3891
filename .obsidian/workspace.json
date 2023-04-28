@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/tracking free memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/tracking free memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory Management/tracking free memory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,10 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
-    "Memory Management/Page tables/page table.md",
     "Memory Management/tracking free memory.md",
+    "Memory Management/Page tables/page table.md",
     "Concepts/multiprogramming.md",
     "Memory Management/levels of translation.md",
     "Memory Management/memory management.md",

@@ -35,4 +35,4 @@ struct memory_hole_node {
 
 There are many other approaches, all with weird names. No particular allocators are the "industry standard".
 - "Lazy buddy"
-- "Slab"
+- "Slab" (optimised for a small number of known-size objects)
