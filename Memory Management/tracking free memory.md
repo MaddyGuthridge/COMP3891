@@ -49,4 +49,4 @@ There are many other approaches, all with weird names. No particular allocators 
 - Loader binds addresses to the right places while loading the executable
 
 ***Run time***
-- Specialised hardware translates [[virtual memory]] addresses to [[physical memory]] address.
+- Specialised hardware translates [[virtual memory]] addresses to [[physical memory]] address. These days is most likely to be a [[translation look-aside buffer]].

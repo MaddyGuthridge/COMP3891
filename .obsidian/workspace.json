@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "894d05dd62ff9341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/virtual memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71bac9b4646c7f69",
             "type": "leaf",
             "state": {
@@ -83,7 +71,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/tracking free memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4cbacd34c41fc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/translation look-aside buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/translation look-aside buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/page table.md"
+                "file": "Memory Management/translation look-aside buffer.md"
               }
             }
           },
@@ -239,14 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82404caeba33518c",
+  "active": "e4cbacd34c41fc61",
   "lastOpenFiles": [
+    "Memory Management/tracking free memory.md",
     "Memory Management/virtual memory.md",
+    "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page.md",
     "Memory Management/Page tables/frame.md",
     "Memory Management/memory compaction.md",
-    "Memory Management/tracking free memory.md",
     "Memory Management/swap.md",
     "Concepts/multiprogramming.md",
     "Memory Management/physical memory.md",
@@ -268,7 +269,6 @@
     "OS components/syscalls/write.md",
     "OS components/syscalls/reboot.md",
     "OS components/syscalls/read.md",
-    "OS components/syscalls/open.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
