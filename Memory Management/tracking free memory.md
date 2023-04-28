@@ -38,4 +38,18 @@ There are many other approaches, all with weird names. No particular allocators 
 - "Slab" (optimised for a small number of known-size objects)
 
 ## Compaction
+Moving memory around to reduce [[fragmentation]]
 
+## Address binding
+
+***Compile/link time***
+- Compiler binds specific addresses
+- Need to know run location at compile time
+- Need to recompile if the location changes
+
+***Load time***
+- Compiler regenerates "reloacatable code"
+- Loader binds addresses to the right places while loading the executable
+
+***Run time***
+- Specialised hardware translates [[virtual memory]] addresses to [[physical memory]] address.
