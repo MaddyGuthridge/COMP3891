@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/tracking free memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory Management/tracking free memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Memory Management/tracking free memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Memory Management/tracking free memory.md"
+              }
             }
           },
           {
@@ -234,27 +239,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0a66a9178317c6",
+  "active": "ae0ef6860f91c70e",
   "lastOpenFiles": [
-    "Memory Management/tracking free memory.md",
-    "Memory Management/Page tables/page table.md",
-    "Concepts/multiprogramming.md",
-    "Memory Management/levels of translation.md",
+    "Memory Management/swap.md",
+    "Memory Management/physical memory.md",
+    "Memory Management/page file.md",
+    "Memory Management/memory resources.md",
     "Memory Management/memory management.md",
+    "Concepts/multiprogramming.md",
+    "Memory Management/Page tables/page table.md",
+    "Memory Management/tracking free memory.md",
+    "Memory Management/levels of translation.md",
     "Memory Management/Page tables/hashed page table.md",
     "OS components/kernel.md",
     "Memory Management/frame.md",
     "Concepts/fragmentation.md",
-    "Memory Management/memory resources.md",
     "Concepts/monoprogramming.md",
     "Concepts/BIOS.md",
     "Concepts",
     "Memory Management/virtual memory.md",
-    "Memory Management/swap.md",
     "OS components/drivers.md",
     "Processes/process memory.md",
     "Processes/process.md",
-    "Memory Management/page file.md",
     "File Systems/case studies/ext3.md",
     "Memory Management",
     "OS components/syscalls/write.md",
@@ -263,7 +269,6 @@
     "OS components/syscalls/open.md",
     "OS components/syscalls/lseek.md",
     "OS components/syscalls/fork.md",
-    "OS components/syscalls/dup2.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
