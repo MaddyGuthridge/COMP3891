@@ -37,9 +37,6 @@ There are many other approaches, all with weird names. No particular allocators 
 - "Lazy buddy"
 - "Slab" (optimised for a small number of known-size objects)
 
-## Compaction
-Moving memory around to reduce [[fragmentation]]
-
 ## Address binding
 
 ***Compile/link time***

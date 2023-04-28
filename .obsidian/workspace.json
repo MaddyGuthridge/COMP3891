@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/tracking free memory.md",
+                "file": "Concepts/multiprogramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/memory management.md",
+                "file": "Memory Management/tracking free memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aec1cf99c65c513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/memory compaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/tracking free memory.md",
+                "file": "Concepts/multiprogramming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/tracking free memory.md",
+                "file": "Concepts/multiprogramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/tracking free memory.md"
+                "file": "Concepts/multiprogramming.md"
               }
             }
           },
@@ -241,14 +253,15 @@
   },
   "active": "ae0ef6860f91c70e",
   "lastOpenFiles": [
-    "Memory Management/swap.md",
+    "Memory Management/tracking free memory.md",
+    "Memory Management/memory compaction.md",
     "Memory Management/physical memory.md",
-    "Memory Management/page file.md",
     "Memory Management/memory resources.md",
     "Memory Management/memory management.md",
     "Concepts/multiprogramming.md",
+    "Memory Management/swap.md",
+    "Memory Management/page file.md",
     "Memory Management/Page tables/page table.md",
-    "Memory Management/tracking free memory.md",
     "Memory Management/levels of translation.md",
     "Memory Management/Page tables/hashed page table.md",
     "OS components/kernel.md",
@@ -268,7 +281,6 @@
     "OS components/syscalls/read.md",
     "OS components/syscalls/open.md",
     "OS components/syscalls/lseek.md",
-    "OS components/syscalls/fork.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
