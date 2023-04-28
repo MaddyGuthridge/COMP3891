@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/virtual memory.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/virtual memory.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/virtual memory.md"
+                "file": "Memory Management/Page tables/page table.md"
               }
             }
           },
@@ -239,10 +239,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f03312a18176d0b",
+  "active": "82404caeba33518c",
   "lastOpenFiles": [
-    "Memory Management/Page tables/page table.md",
     "Memory Management/virtual memory.md",
+    "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page.md",
     "Memory Management/Page tables/frame.md",
     "Memory Management/memory compaction.md",
