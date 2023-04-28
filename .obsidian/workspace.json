@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/multiprogramming.md",
+                "file": "Memory Management/swap.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/multiprogramming.md",
+                "file": "Memory Management/swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/multiprogramming.md",
+                "file": "Memory Management/swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/multiprogramming.md"
+                "file": "Memory Management/swap.md"
               }
             }
           },
@@ -253,12 +253,12 @@
   },
   "active": "ae0ef6860f91c70e",
   "lastOpenFiles": [
+    "Concepts/multiprogramming.md",
     "Memory Management/tracking free memory.md",
     "Memory Management/memory compaction.md",
     "Memory Management/physical memory.md",
     "Memory Management/memory resources.md",
     "Memory Management/memory management.md",
-    "Concepts/multiprogramming.md",
     "Memory Management/swap.md",
     "Memory Management/page file.md",
     "Memory Management/Page tables/page table.md",
