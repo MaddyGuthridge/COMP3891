@@ -1,0 +1,1 @@
+A page is a contiguous chunk of bits in [[virtual memory]], which is translated to a [[frame]] in [[physical memory]] by a [[page table]].

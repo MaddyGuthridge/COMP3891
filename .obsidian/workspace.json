@@ -18,36 +18,12 @@
             }
           },
           {
-            "id": "ae0ef6860f91c70e",
+            "id": "2f03312a18176d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/swap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06b957126e86dbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/tracking free memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aec1cf99c65c513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/memory compaction.md",
+                "file": "Memory Management/virtual memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/frame.md",
+                "file": "Memory Management/Page tables/frame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "894d05dd62ff9341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/virtual memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/swap.md",
+                "file": "Memory Management/virtual memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/swap.md",
+                "file": "Memory Management/virtual memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/swap.md"
+                "file": "Memory Management/virtual memory.md"
               }
             }
           },
@@ -251,26 +239,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae0ef6860f91c70e",
+  "active": "2f03312a18176d0b",
   "lastOpenFiles": [
-    "Concepts/multiprogramming.md",
-    "Memory Management/tracking free memory.md",
+    "Memory Management/Page tables/page table.md",
+    "Memory Management/virtual memory.md",
+    "Memory Management/Page tables/page.md",
+    "Memory Management/Page tables/frame.md",
     "Memory Management/memory compaction.md",
+    "Memory Management/tracking free memory.md",
+    "Memory Management/swap.md",
+    "Concepts/multiprogramming.md",
     "Memory Management/physical memory.md",
     "Memory Management/memory resources.md",
     "Memory Management/memory management.md",
-    "Memory Management/swap.md",
     "Memory Management/page file.md",
-    "Memory Management/Page tables/page table.md",
     "Memory Management/levels of translation.md",
     "Memory Management/Page tables/hashed page table.md",
     "OS components/kernel.md",
-    "Memory Management/frame.md",
     "Concepts/fragmentation.md",
     "Concepts/monoprogramming.md",
     "Concepts/BIOS.md",
     "Concepts",
-    "Memory Management/virtual memory.md",
     "OS components/drivers.md",
     "Processes/process memory.md",
     "Processes/process.md",
@@ -280,7 +269,6 @@
     "OS components/syscalls/reboot.md",
     "OS components/syscalls/read.md",
     "OS components/syscalls/open.md",
-    "OS components/syscalls/lseek.md",
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
