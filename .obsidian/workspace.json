@@ -219,9 +219,17 @@
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "9a4937ead05a80e1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -239,7 +247,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a18f801a53bd977",
+  "active": "9a4937ead05a80e1",
   "lastOpenFiles": [
     "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/Page tables/inverted page table.md",
