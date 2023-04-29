@@ -1,17 +1,24 @@
 An inverted [[page table]] (IPT) has an entry for every [[frame]], rather than an entry for every [[page]]. This means that it can be stored globally, rather than having a different instance for each virtual [[address space]].
 
-This means the overhead is fixed, since it is determined b
+This means the memory overhead is fixed, since it is determined by the amount of memory in the system. Additionally, vast amounts of memory are saved since there is no need to allocate table rows that could never be filled due to [[physical memory]] limitations (running out of RAM).
+
+Since an IPT maps frames and not pages, a separate data structure is needed to keep track of non-resident pages.
+
+Note tha
 
 ## IPT structure
 
-| frame index | PID | virtual page number | ctrl | next | comment                 |
-| -----------:| ---:| -------------------:| ---- | ---- | ----------------------- |
-|           0 |     |                     |      |      | empty frames            |
-|           1 |     |                     |      |      |                         |
-|           2 |   1 |                0x1A |      |      | this frame has an entry |
-|           3 |   2 |                0x3C |      | 5    | another entry collided with this entry                        |
+A frame table is used to store which frames belong with which pages. This is also used for [[page replacement]].
+| frame index | PID | virtual page number | ctrl | next | comment                                                                                  |
+| -----------:| ---:| -------------------:| ---- | ---- | ---------------------------------------------------------------------------------------- |
+|           0 |     |                     |      |      | empty frames                                                                             |
+|           1 |     |                     |      |      |                                                                                          |
+|           2 |   1 |                0x1A |      |      | this frame has an entry                                                                  |
+|           3 |   2 |                0x3C |      | 5    | another entry collided with this entry, so the next property is set                      |
+|           4 |     |                     |      |      |                                                                                          |
+|           5 |   4 |                0x3C |      |      | Even though the hash would have put it at index 3, it went here because of the collision |
 
-Because multiple processes might have addresses with the same page (or different addresses with the same hash), there is a risk of collisions - as such we also need to store what process owns each frame.
+Because multiple processes might have addresses with the same page (or different addresses with the same hash), there is a risk of collisions. As such we also need to store what process owns each frame.
 
 ## Hash Anchor Table
 
