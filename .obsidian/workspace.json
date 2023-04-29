@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/copy on write.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,19 +203,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "9b6c6b684c3759dc",
   "lastOpenFiles": [
-    "Memory Management/levels of translation.md",
     "Memory Management/translation look-aside buffer.md",
+    "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
-    "Memory Management/address space.md",
     "Memory Management/memory resources.md",
+    "Memory Management/levels of translation.md",
+    "Memory Management/address space.md",
     "Memory Management/memory compaction.md",
     "Memory Management/memory management.md",
     "Memory Management/tracking free memory.md",
     "Memory Management/virtual memory.md",
-    "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page.md",
     "Memory Management/Page tables/frame.md",
     "Memory Management/swap.md",

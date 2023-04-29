@@ -1,6 +1,6 @@
 A page table is a bunch of "pages" of memory, used to map between [[page|pages]] in [[virtual memory]] and [[frame|frames]] in [[physical memory]].
 
-Since the translations are done on-the-fly, the physical memory used by a process doesn't need to be contiguous, even if the virtual memory is. The physical organisation of memory is abstracted away - userland programmers only need to deal with virtual addresses (I am jealous).
+Since the translations are done on-the-fly, the physical memory used by a process doesn't need to be contiguous, even if the virtual memory is. The physical organisation of memory is abstracted away - user-land programmers only need to deal with virtual addresses (I am jealous).
 
 Paging offers no external fragmentation, and only small amounts of internal fragmentation (in last page)
 
@@ -17,3 +17,14 @@ Typically, a page table entry has a bunch of properties:
 
 - **present/absent**: whether the page is in-use
 - **protection**: whether the page is readable/writable/executable
+- **modified**: whether the page has been changed from its initial state
+- **caching disabled**: for some devices (eg a memory-mapped frame buffer) it is important to always update the actual buffer, and not just the cache.
+- **referenced**
+- **page frame number**: the [[frame]] that the page maps to
+
+## How big does it need to be?
+
+If we have
+- 32-bit virtual addresses
+- 4 KB frame size
+- $n = 2$
