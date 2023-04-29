@@ -1,6 +1,19 @@
-A hashed page table is a [[page table]] built using a hash table to map from [[virtual memory]] to [[physical memory]].
+A hashed page table is a [[page table]] that uses a hash table to map from [[virtual memory]] to [[physical memory]]. It acts as an improvement over [[inverted page table|inverted page tables]], and allows for efficient [[memory sharing]] by supporting more than one mapping to the same [[frame]].
 
+| index | PID | virtual page number | physical frame number | ctrl | next | comment                                                                                       |
+| -----:| ---:| -------------------:| ---------------------:| ---- | ---- | --------------------------------------------------------------------------------------------- |
+|     0 |     |                     |                       |      |      | empty frames                                                                                  |
+|     1 |     |                     |                       |      |      |                                                                                               |
+|     2 |   1 |                0x1A |                  0x10 |      |      | this frame has an entry                                                                       |
+|     3 |   2 |                0x3C |                  0x32 |      | 5    | another entry collided with this entry, so the next property is set                           |
+|     4 |     |                     |                       |      |      |                                                                                               |
+|     5 |   4 |                0x3C |                  0x14 |      |      | Even though the hash would have put it at index 3, it went here because of the collision      |
+|     6 |   3 |                0x5D |                  0xA2 |      |      | The frame is shared with a different process                                                  |
+|     7 |   5 |                0x28 |                  0xA2 |      |      | Even though the frame numbers are equal, there is no need for the page numbers to be the same |
+
+## Lookup process
 - Given virtual address
+- Calculate the page number and offset
 - Hash it to get the key
 - Look up that key
 - Get the page
