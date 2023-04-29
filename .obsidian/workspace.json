@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/TLB refill.md",
+                "file": "Memory Management/TLBs/TLB refill.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/translation look-aside buffer.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/translation look-aside buffer.md",
+                "file": "Memory Management/TLBs/TLB refill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/translation look-aside buffer.md",
+                "file": "Memory Management/TLBs/TLB refill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/translation look-aside buffer.md"
+                "file": "Memory Management/TLBs/TLB refill.md"
               }
             }
           },
@@ -187,17 +187,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b32db71a6b6c789e",
+  "active": "6e17cac0900edbc1",
   "lastOpenFiles": [
-    "Memory Management/Page tables/TLB refill.md",
-    "Memory Management/Page tables/translation look-aside buffer.md",
+    "Memory Management/TLBs",
+    "Memory Management/TLBs/translation look-aside buffer.md",
+    "Memory Management/TLBs/TLB refill.md",
     "Memory Management/Page tables/page replacement.md",
     "Memory Management/address space.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
     "Memory Management/Page tables/page.md",
     "Processes/process state.md",
-    "Memory Management/Page tables/address space ID.md",
+    "Memory Management/TLBs/address space ID.md",
     "Memory Management/Page tables/hashed page table.md",
     "mips/MIPS R3000.md",
     "Memory Management/Page tables/multi-level page table.md",
@@ -214,7 +215,6 @@
     "Memory Management/memory resources.md",
     "Memory Management/levels of translation.md",
     "Memory Management/memory compaction.md",
-    "Memory Management/memory management.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
