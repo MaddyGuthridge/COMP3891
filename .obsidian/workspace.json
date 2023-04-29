@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/page fault.md",
+                "file": "Memory Management/levels of translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/page fault.md",
+                "file": "Memory Management/levels of translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/page fault.md",
+                "file": "Memory Management/levels of translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/page fault.md"
+                "file": "Memory Management/levels of translation.md"
               }
             }
           },
@@ -203,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "9b6c6b684c3759dc",
   "lastOpenFiles": [
-    "Memory Management/copy on write.md",
+    "Memory Management/translation look-aside buffer.md",
+    "Memory Management/levels of translation.md",
     "Memory Management/Page tables/page fault.md",
+    "Memory Management/copy on write.md",
     "Memory Management/address space.md",
     "Memory Management/memory resources.md",
-    "Memory Management/levels of translation.md",
     "Memory Management/memory compaction.md",
     "Memory Management/memory management.md",
     "Memory Management/tracking free memory.md",
-    "Memory Management/translation look-aside buffer.md",
     "Memory Management/virtual memory.md",
     "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page.md",

@@ -6,4 +6,4 @@ Two kinds of fault
 	- Get an empty frame
 	- Load page from disk
 	- Update [[page table]] (enter frame number, set valid bit, etc)
-	- Restart the faulty instruction
+	- Restart the faulting instruction
