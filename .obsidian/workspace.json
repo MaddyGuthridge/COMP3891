@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "ad62e161e5707877",
+            "id": "85cd03b0e2910949",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "92c41be65b4bc6be",
+            "id": "b32db71a6b6c789e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,11 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c41be65b4bc6be",
+  "active": "b32db71a6b6c789e",
   "lastOpenFiles": [
     "Memory Management/Page tables/TLB refill.md",
-    "Memory Management/address space.md",
     "Memory Management/Page tables/translation look-aside buffer.md",
+    "Memory Management/Page tables/page replacement.md",
+    "Memory Management/address space.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
     "Memory Management/Page tables/page.md",
@@ -204,7 +205,6 @@
     "OS components/exception.md",
     "Concepts/fragmentation.md",
     "Concepts/architecture.md",
-    "page replacement.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/inverted page table.md",
     "Memory Management/memory sharing.md",
