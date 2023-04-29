@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "8d0759a43aaa5391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/hashed page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Memory Management/Page tables/hashed page table.md"
+              }
             }
           },
           {
@@ -158,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0a66a9178317c6",
+  "active": "8d0759a43aaa5391",
   "lastOpenFiles": [
     "page replacement.md",
     "Memory Management/Page tables/two-level page table.md",

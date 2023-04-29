@@ -23,3 +23,7 @@ The number of indexes should be a power-of-2 multiple of the number of frames of
 - Look up that key
 - Get the page
 - Calculate the physical address
+
+## Performance
+
+Each [[virtual memory]] reference lookup causes two [[physical memory]] accesses - one to fetch the page table, and one to fetch the actual data.
