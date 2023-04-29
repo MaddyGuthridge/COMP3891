@@ -25,6 +25,17 @@ Typically, a page table entry has a bunch of properties:
 ## How big does it need to be?
 
 If we have
-- 32-bit virtual addresses
-- 4 KB frame size
-- $n = 2$
+- `32`-bit virtual addresses
+- `4` KB frame size
+- number of pages: $n = \frac{2^{32}}{4096} = 1048576$ entries
+
+This is wayyyyyyy too many entries, as such we need to choose a data structure that lets us ignore empty values, but still look things up efficiently.
+
+## Page table data structures
+
+### Data structures that adapt to sparsity
+
+### Data structures which only represent resident pages
+
+### Using VM techniques for page tables
+Causes chicken-egg problems

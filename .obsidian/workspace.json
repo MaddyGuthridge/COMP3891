@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "138a4b6fa7f7cea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/two-level page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "00910d26963aa2b5",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/Page tables/two-level page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Memory Management/Page tables/two-level page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/page table.md"
+                "file": "Memory Management/Page tables/two-level page table.md"
               }
             }
           },
@@ -203,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6c6b684c3759dc",
+  "active": "138a4b6fa7f7cea8",
   "lastOpenFiles": [
-    "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page table.md",
+    "Memory Management/Page tables/two-level page table.md",
+    "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
     "Memory Management/memory resources.md",
@@ -231,7 +244,6 @@
     "OS components/drivers.md",
     "Processes/process memory.md",
     "Processes/process.md",
-    "File Systems/case studies/ext3.md",
     "Memory Management",
     "Memory Management/Page tables",
     "File Systems/file allocation",
