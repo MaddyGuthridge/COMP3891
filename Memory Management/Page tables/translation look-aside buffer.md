@@ -37,8 +37,11 @@ In order to make lookups as efficient as possible for [[process|processes]], TLB
 When a [[context switch]] occurs, the entire TLB needs to be flushed and refilled. This produces a high overhead for context switches, and was used on x86 CPUs (apparently not in modern ones though?).
 
 ### Address space ID tagging
-Each TLB entry is tagged with an address space ID (ASID) which tells the CPU which process owns that address. This is used in some form by all modern architectures. TLBs that use this are called *tagged TLBs*.
+Each TLB entry is tagged with an [[address space ID]].
 
 ## Performance
 - Without a TLB, the number of [[physical memory]] lookups for a [[virtual memory]] lookup is 2
 - With a TLB, if there is a 99% hit rate, [[physical memory]] lookups are reduced significantly, since the TLB allows a lookup to be done in one operation. $0.99 \times 1 + 0.01 \times 2 = 1.01$.
+
+## See also
+[[R3000 TLB]]: information on how the [[MIPS R3000]] implements a TLB.

@@ -30,24 +30,12 @@
             }
           },
           {
-            "id": "89d744e0d3da3499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/MIPS R3000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a925b4544e674b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mips/R3000 TLB.md",
+                "file": "Memory Management/Page tables/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +47,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processes/process state.md",
+                "file": "mips/R3000 TLB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a37d91a05f837d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/R3000 address space layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mips/R3000 TLB.md",
+                "file": "mips/R3000 address space layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mips/R3000 TLB.md",
+                "file": "mips/R3000 address space layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mips/R3000 TLB.md"
+                "file": "mips/R3000 address space layout.md"
               }
             }
           },
@@ -234,14 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a925b4544e674b5",
+  "active": "94a37d91a05f837d",
   "lastOpenFiles": [
-    "mips/MIPS R3000.md",
     "mips/R3000 TLB.md",
+    "mips/R3000 address space layout.md",
     "Memory Management/Page tables/translation look-aside buffer.md",
-    "Memory Management/Page tables/hashed page table.md",
-    "Memory Management/Page tables/multi-level page table.md",
+    "Memory Management/Page tables/page.md",
     "Processes/process state.md",
+    "Memory Management/Page tables/address space ID.md",
+    "Memory Management/Page tables/hashed page table.md",
+    "mips/MIPS R3000.md",
+    "Memory Management/Page tables/multi-level page table.md",
     "Threading/context switch.md",
     "OS components/exception.md",
     "Concepts/fragmentation.md",
@@ -249,7 +252,6 @@
     "page replacement.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/inverted page table.md",
-    "Memory Management/Page tables/page.md",
     "Memory Management/memory sharing.md",
     "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page fault.md",
@@ -260,8 +262,6 @@
     "Memory Management/memory compaction.md",
     "Memory Management/memory management.md",
     "Memory Management/tracking free memory.md",
-    "Memory Management/virtual memory.md",
-    "Memory Management/Page tables/frame.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
