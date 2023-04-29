@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/levels of translation.md"
+                "file": "Memory Management/Page tables/page table.md"
               }
             }
           },
@@ -203,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6c6b684c3759dc",
+  "active": "6e17cac0900edbc1",
   "lastOpenFiles": [
-    "Memory Management/translation look-aside buffer.md",
     "Memory Management/levels of translation.md",
+    "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
     "Memory Management/address space.md",
