@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89d744e0d3da3499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/Page tables/translation look-aside buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/Page tables/translation look-aside buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md"
+                "file": "Memory Management/Page tables/translation look-aside buffer.md"
               }
             }
           },
@@ -175,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d0759a43aaa5391",
+  "active": "89d744e0d3da3499",
   "lastOpenFiles": [
+    "Memory Management/Page tables/multi-level page table.md",
+    "Memory Management/Page tables/translation look-aside buffer.md",
+    "Memory Management/Page tables/hashed page table.md",
     "page replacement.md",
     "Memory Management/Page tables/two-level page table.md",
-    "Memory Management/Page tables/hashed page table.md",
     "Memory Management/Page tables/inverted page table.md",
     "Memory Management/Page tables/page.md",
     "Memory Management/memory sharing.md",
-    "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/Page tables/page table.md",
-    "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
     "Memory Management/memory resources.md",

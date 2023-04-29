@@ -26,4 +26,4 @@ The number of indexes should be a power-of-2 multiple of the number of frames of
 
 ## Performance
 
-Each [[virtual memory]] reference lookup causes two [[physical memory]] accesses - one to fetch the page table, and one to fetch the actual data.
+Each [[virtual memory]] reference lookup causes two [[physical memory]] accesses - one to fetch the page table, and one to fetch the actual data. The solution is to use a [[translation look-aside buffer]], which is a cache for page table entries.
