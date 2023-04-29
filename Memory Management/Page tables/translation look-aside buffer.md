@@ -20,5 +20,15 @@ Physical hardware on a CPU to accelerate page table lookups, acting as a cache. 
 ## Hardware vs software TLBs
 The system for handling TLB misses depends on on the CPU [[architecture]].
 
-- On x86 and ARM architectures, TLB misses perform a page table lookup, then reload the table
-- On [[MIPS]] and Itanium architectures, TLB misses generate a TLB miss [[exception]] which must be handled by the [[kernel]]. The kernel uses hardware instructions to load the TLB.
+### x86 and ARM
+TLB misses perform a page table lookup in hardware, then reload the table.
+- This means the process is ***🔥 BLAZINGLY FAST 🔥***
+- But the [[kernel]] has very little control over it (you need to use the page table as designated by the CPU)
+
+### [[MIPS]] and Itanium
+TLB misses generate a *TLB miss [[exception]]* which must be handled by the [[kernel]]. The kernel uses hardware instructions to load the new entries into the TLB.
+- This means the [[kernel]] has much more control over how the [[page table]] is defined
+- But it's probably slower than a hardware-accelerated lookup
+
+## TLBs and context switching
+In order to make lookups as efficient as possible for [[process|processes]], and since most TLBs don't support differentiate

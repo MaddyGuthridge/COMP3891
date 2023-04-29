@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "a632e5c544643b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d43eaeec2b435a20",
             "type": "leaf",
             "state": {
@@ -201,9 +213,10 @@
   },
   "active": "89d744e0d3da3499",
   "lastOpenFiles": [
+    "OS components/exception.md",
+    "Memory Management/Page tables/translation look-aside buffer.md",
     "Concepts/fragmentation.md",
     "Concepts/architecture.md",
-    "Memory Management/Page tables/translation look-aside buffer.md",
     "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/Page tables/hashed page table.md",
     "page replacement.md",
@@ -226,7 +239,6 @@
     "Concepts/multiprogramming.md",
     "Memory Management/physical memory.md",
     "Memory Management/page file.md",
-    "OS components/kernel.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
