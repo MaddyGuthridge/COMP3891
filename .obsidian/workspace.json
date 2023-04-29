@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "8a18f801a53bd977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/inverted page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "00910d26963aa2b5",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/multi-level page table.md",
+                "file": "Memory Management/Page tables/inverted page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/multi-level page table.md",
+                "file": "Memory Management/Page tables/inverted page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/multi-level page table.md"
+                "file": "Memory Management/Page tables/inverted page table.md"
               }
             }
           },
@@ -227,11 +239,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "299f2f308a51d77a",
+  "active": "8a18f801a53bd977",
   "lastOpenFiles": [
+    "Memory Management/Page tables/multi-level page table.md",
+    "Memory Management/Page tables/inverted page table.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/page table.md",
-    "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
@@ -255,7 +268,6 @@
     "Concepts/BIOS.md",
     "Concepts",
     "OS components/drivers.md",
-    "Processes/process memory.md",
     "Memory Management",
     "Memory Management/Page tables",
     "File Systems/file allocation",
