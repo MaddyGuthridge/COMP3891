@@ -29,13 +29,16 @@ If we have
 - `4` KB frame size
 - number of pages: $n = \frac{2^{32}}{4096} = 1048576$ entries
 
-This is wayyyyyyy too many entries, as such we need to choose a data structure that lets us ignore empty values, but still look things up efficiently.
+This is wayyyyyyy too many entries, which is wasteful as for most programs will only use a fraction of that space. As such we need to choose a data structure that lets us ignore empty values, but can still look up frames efficiently.
 
 ## Page table data structures
 
 ### Data structures that adapt to sparsity
+- [[two-level page table]]
+- [[multi-level page table]]
 
 ### Data structures which only represent resident pages
+- [[hashed page table]]
 
 ### Using VM techniques for page tables
 Causes chicken-egg problems

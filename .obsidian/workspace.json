@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/three-level page table.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/three-level page table.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/three-level page table.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/three-level page table.md"
+                "file": "Memory Management/Page tables/multi-level page table.md"
               }
             }
           },
@@ -230,8 +230,8 @@
   "active": "299f2f308a51d77a",
   "lastOpenFiles": [
     "Memory Management/Page tables/two-level page table.md",
-    "Memory Management/Page tables/three-level page table.md",
     "Memory Management/Page tables/page table.md",
+    "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/translation look-aside buffer.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
