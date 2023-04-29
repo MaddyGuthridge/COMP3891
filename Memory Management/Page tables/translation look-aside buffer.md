@@ -31,4 +31,10 @@ TLB misses generate a *TLB miss [[exception]]* which must be handled by the [[ke
 - But it's probably slower than a hardware-accelerated lookup
 
 ## TLBs and context switching
-In order to make lookups as efficient as possible for [[process|processes]], and since most TLBs don't support differentiate
+In order to make lookups as efficient as possible for [[process|processes]], TLB entries must either be process specific, or be tagged with an [[address space]] ID. Otherwise processes would be able to access memory belonging to other processes.
+
+### Process-specific TLB entries
+When a [[context switch]] occurs, the entire TLB needs to be flushed and refilled. This produces a high overhead for context switches, and was used on x86 CPUs (apparently not in modern ones though?).
+
+### Address space ID tagging
+Each TLB entry is tagged with an address space ID (ASID) which tells the CPU which process owns that address. This is used in some form by all modern architectures. TLBs that use this are called *tagged TLBs*.
