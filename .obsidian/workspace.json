@@ -40,6 +40,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d43eaeec2b435a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -189,8 +201,10 @@
   },
   "active": "89d744e0d3da3499",
   "lastOpenFiles": [
-    "Memory Management/Page tables/multi-level page table.md",
+    "Concepts/fragmentation.md",
+    "Concepts/architecture.md",
     "Memory Management/Page tables/translation look-aside buffer.md",
+    "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/Page tables/hashed page table.md",
     "page replacement.md",
     "Memory Management/Page tables/two-level page table.md",
@@ -213,8 +227,6 @@
     "Memory Management/physical memory.md",
     "Memory Management/page file.md",
     "OS components/kernel.md",
-    "Concepts/fragmentation.md",
-    "Concepts/monoprogramming.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
