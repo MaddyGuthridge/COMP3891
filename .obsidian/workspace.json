@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/inverted page table.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/page.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/page.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/page.md"
+                "file": "Memory Management/Page tables/hashed page table.md"
               }
             }
           },
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a18f801a53bd977",
+  "active": "ffc51e7f6616a1f5",
   "lastOpenFiles": [
-    "Memory Management/Page tables/hashed page table.md",
     "Memory Management/Page tables/inverted page table.md",
+    "Memory Management/Page tables/page.md",
+    "Memory Management/Page tables/hashed page table.md",
     "Memory Management/memory sharing.md",
     "Memory Management/Page tables/multi-level page table.md",
     "Memory Management/Page tables/two-level page table.md",
@@ -204,7 +206,6 @@
     "Memory Management/memory management.md",
     "Memory Management/tracking free memory.md",
     "Memory Management/virtual memory.md",
-    "Memory Management/Page tables/page.md",
     "Memory Management/Page tables/frame.md",
     "Memory Management/swap.md",
     "Concepts/multiprogramming.md",

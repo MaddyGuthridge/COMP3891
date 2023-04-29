@@ -1,5 +1,8 @@
 A hashed page table is a [[page table]] that uses a hash table to map from [[virtual memory]] to [[physical memory]]. It acts as an improvement over [[inverted page table|inverted page tables]], and allows for efficient [[memory sharing]] by supporting more than one mapping to the same [[frame]].
 
+This also allows for boot-time tuning, based on physical memory size, the amount of expected sharing, and requirements for hash collision avoidance. For example, if you only expect one process to use the majority of memory, you wouldn't need to optimise for sharing as much.
+
+## Layout
 | index | PID | virtual page number | physical frame number | ctrl | next | comment                                                                                       |
 | -----:| ---:| -------------------:| ---------------------:| ---- | ---- | --------------------------------------------------------------------------------------------- |
 |     0 |     |                     |                       |      |      | empty frames                                                                                  |
@@ -10,6 +13,8 @@ A hashed page table is a [[page table]] that uses a hash table to map from [[vir
 |     5 |   4 |                0x3C |                  0x14 |      |      | Even though the hash would have put it at index 3, it went here because of the collision      |
 |     6 |   3 |                0x5D |                  0xA2 |      |      | The frame is shared with a different process                                                  |
 |     7 |   5 |                0x28 |                  0xA2 |      |      | Even though the frame numbers are equal, there is no need for the page numbers to be the same |
+
+The number of indexes should be a power-of-2 multiple of the number of frames of physical memory.
 
 ## Lookup process
 - Given virtual address
