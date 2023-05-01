@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/TLBs/TLB refill.md",
+                "file": "OS components/syscall.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/TLBs/TLB refill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/TLBs/TLB refill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory Management/TLBs/TLB refill.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
+    "OS components/syscall.md",
+    "Memory Management/TLBs/TLB refill.md",
     "Memory Management/TLBs",
     "Memory Management/TLBs/translation look-aside buffer.md",
-    "Memory Management/TLBs/TLB refill.md",
     "Memory Management/Page tables/page replacement.md",
     "Memory Management/address space.md",
     "mips/R3000 address space layout.md",
@@ -223,7 +219,6 @@
     "File Systems/types",
     "OS components/syscalls",
     "os-161",
-    "OS components",
-    "File Systems"
+    "OS components"
   ]
 }
