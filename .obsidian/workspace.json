@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/inverted page table.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/inverted page table.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/inverted page table.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/inverted page table.md"
+                "file": "Memory Management/TLBs/translation look-aside buffer.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "0f1e12713bfe6642",
   "lastOpenFiles": [
+    "Memory Management/Page tables/inverted page table.md",
     "Memory Management/Page tables/page table.md",
     "File Systems/file allocation/inode-based allocation.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
@@ -200,7 +201,6 @@
     "OS components/exception.md",
     "Concepts/fragmentation.md",
     "Concepts/architecture.md",
-    "Memory Management/Page tables/inverted page table.md",
     "Memory Management/memory sharing.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
