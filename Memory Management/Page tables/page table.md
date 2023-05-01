@@ -8,8 +8,7 @@ An older system was "segmentation", but it isn't used much these days.
 
 ## Per-process or global?
 
-The lectures say that a page table is per-process (meaning each process has its own independent page table). But the assignment required us to make a global page table which all processes share.
-#### TODO: FIGURE OUT WHY
+Standard page tables (such as a [[multi-level page table]]) are stored per-process, but [[inverted page table|inverted page tables]] and [[hashed page table|hashed page tables]] are stored globally, because they map [[frame|frames]] to [[page|pages]] (rather than pages to frames).
 
 ## Page table entry
 

@@ -18,55 +18,19 @@
             }
           },
           {
-            "id": "85cd03b0e2910949",
+            "id": "0f1e12713bfe6642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/two-level page table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a94aec7672d032a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/case studies/ext2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebd48603e12991a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b32db71a6b6c789e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/case studies/ext2.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/case studies/ext2.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/case studies/ext2.md"
+                "file": "Memory Management/Page tables/page table.md"
               }
             }
           },
@@ -211,14 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a94aec7672d032a",
+  "active": "0f1e12713bfe6642",
   "lastOpenFiles": [
     "File Systems/file allocation/inode-based allocation.md",
+    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/two-level page table.md",
+    "File Systems/case studies/ext2.md",
+    "File Systems/case studies/ext3.md",
     "OS components/syscall.md",
     "Memory Management/TLBs/TLB refill.md",
     "Memory Management/TLBs",
-    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/page replacement.md",
     "Memory Management/address space.md",
     "mips/R3000 address space layout.md",
@@ -238,8 +204,6 @@
     "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page fault.md",
     "Memory Management/copy on write.md",
-    "Memory Management/memory resources.md",
-    "Memory Management/levels of translation.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
