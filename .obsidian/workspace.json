@@ -23,24 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf2f6e417facb6e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mips/R3000 address space layout.md"
+                "file": "Memory Management/TLBs/translation look-aside buffer.md"
               }
             }
           },
@@ -193,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf2f6e417facb6e7",
+  "active": "0f1e12713bfe6642",
   "lastOpenFiles": [
+    "Memory Management/Page tables/hashed page table.md",
+    "Memory Management/Page tables/inverted page table.md",
+    "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
-    "Memory Management/Page tables/inverted page table.md",
     "Memory Management/Page tables/page table.md",
     "File Systems/file allocation/inode-based allocation.md",
     "Memory Management/Page tables/two-level page table.md",
@@ -208,11 +200,9 @@
     "Memory Management/TLBs",
     "Memory Management/Page tables/page replacement.md",
     "Memory Management/address space.md",
-    "mips/R3000 address space layout.md",
     "Memory Management/Page tables/page.md",
     "Processes/process state.md",
     "Memory Management/TLBs/address space ID.md",
-    "Memory Management/Page tables/hashed page table.md",
     "mips/MIPS R3000.md",
     "Memory Management/Page tables/multi-level page table.md",
     "Threading/context switch.md",

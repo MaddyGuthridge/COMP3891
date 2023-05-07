@@ -3,7 +3,7 @@ A hashed page table is a [[page table]] that uses a hash table to map from [[vir
 This also allows for boot-time tuning, based on physical memory size, the amount of expected sharing, and requirements for hash collision avoidance. For example, if you only expect one process to use the majority of memory, you wouldn't need to optimise for sharing as much.
 
 ## Layout
-| index | PID | virtual page number | physical frame number | ctrl | next | comment                                                                                       |
+| *index* | PID | virtual page number | physical frame number | ctrl | next | comment                                                                                       |
 | -----:| ---:| -------------------:| ---------------------:| ---- | ---- | --------------------------------------------------------------------------------------------- |
 |     0 |     |                     |                       |      |      | empty frames                                                                                  |
 |     1 |     |                     |                       |      |      |                                                                                               |

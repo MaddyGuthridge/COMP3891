@@ -9,7 +9,7 @@ Note that this also makes [[memory sharing]] nearly impossible. As such, an impr
 ## IPT structure
 
 A frame table is used to store which frames belong with which pages. This is also used for [[page replacement]].
-| frame index | PID | virtual page number | ctrl | next | comment                                                                                  |
+| *frame index* | PID | virtual page number | ctrl | next | comment                                                                                  |
 | -----------:| ---:| -------------------:| ---- | ---- | ---------------------------------------------------------------------------------------- |
 |           0 |     |                     |      |      | empty frames                                                                             |
 |           1 |     |                     |      |      |                                                                                          |
@@ -25,7 +25,7 @@ Because multiple processes might have addresses with the same page (or different
 ## Hash Anchor Table
 
 Inverted page tables use an additional hash anchor table to calculate mappings from [[virtual memory]] to [[physical memory]], since otherwise look-ups would only be possible from frames to pages.
-| hash | page table index | comments                                                                                                                             |     |
+| *hash* | page table index | comments                                                                                                                             |     |
 | ----:| ----------------:| ------------------------------------------------------------------------------------------------------------------------------------ | --- |
 |    0 |                - | not assigned                                                                                                                         |     |
 |    1 |                3 | look up index 3 in the table                                                                                                         |     |
