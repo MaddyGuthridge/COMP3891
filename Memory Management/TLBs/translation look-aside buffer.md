@@ -19,7 +19,7 @@ Physical hardware on a CPU to accelerate page table lookups, acting as a cache. 
 - And other [[architecture]]-specific properties (see [[R3000 TLB]] for more info on the [[sys-161]] implementation).
 
 ## TLBs and context switching
-In order to make lookups as efficient as possible for [[process|processes]], TLB entries must either be process specific, or be tagged with an [[address space]] ID. Otherwise processes would be able to access memory belonging to other processes.
+In order to make lookups as efficient as possible for [[process|processes]], TLB entries must either be process specific, or be tagged with an [[address space ID]]. Otherwise processes would be able to access memory belonging to other processes.
 
 ### Process-specific TLB entries
 When a [[context switch]] occurs, the entire TLB needs to be flushed and [[TLB refill|refilled]]. This produces a high overhead for context switches, and was used on x86 CPUs (apparently not in modern ones though?).

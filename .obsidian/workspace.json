@@ -23,14 +23,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "mips/R3000 address space layout.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf2f6e417facb6e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +85,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "28a69ce7783302cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "mips/R3000 address space layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "mips/R3000 address space layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md"
+                "file": "mips/R3000 address space layout.md"
               }
             }
           },
@@ -175,12 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1e12713bfe6642",
+  "active": "cf2f6e417facb6e7",
   "lastOpenFiles": [
+    "mips/R3000 TLB.md",
+    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/inverted page table.md",
     "Memory Management/Page tables/page table.md",
     "File Systems/file allocation/inode-based allocation.md",
-    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/two-level page table.md",
     "File Systems/case studies/ext2.md",
     "File Systems/case studies/ext3.md",
@@ -190,7 +209,6 @@
     "Memory Management/Page tables/page replacement.md",
     "Memory Management/address space.md",
     "mips/R3000 address space layout.md",
-    "mips/R3000 TLB.md",
     "Memory Management/Page tables/page.md",
     "Processes/process state.md",
     "Memory Management/TLBs/address space ID.md",
