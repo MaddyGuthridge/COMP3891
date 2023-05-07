@@ -23,7 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b00e899b2d6663ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "x86",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md",
+                "file": "Memory Management/Page tables/multi-level page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/TLBs/translation look-aside buffer.md"
+                "file": "Memory Management/Page tables/multi-level page table.md"
               }
             }
           },
@@ -185,33 +197,33 @@
   },
   "active": "0f1e12713bfe6642",
   "lastOpenFiles": [
+    "Concepts/architecture.md",
+    "Memory Management/TLBs/TLB refill.md",
+    "Memory Management/Page tables/multi-level page table.md",
+    "Memory Management/Page tables/page table.md",
+    "Memory Management/Page tables/page replacement.md",
     "Memory Management/Page tables/hashed page table.md",
+    "Memory Management/copy on write.md",
+    "Memory Management/address space.md",
+    "Memory Management/tracking free memory.md",
+    "Memory Management/virtual memory.md",
+    "Memory Management/physical memory.md",
+    "Memory Management/Page tables/two-level page table.md",
+    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/inverted page table.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
-    "Memory Management/TLBs/translation look-aside buffer.md",
-    "Memory Management/Page tables/page table.md",
     "File Systems/file allocation/inode-based allocation.md",
-    "Memory Management/Page tables/two-level page table.md",
     "File Systems/case studies/ext2.md",
     "File Systems/case studies/ext3.md",
     "OS components/syscall.md",
-    "Memory Management/TLBs/TLB refill.md",
     "Memory Management/TLBs",
-    "Memory Management/Page tables/page replacement.md",
-    "Memory Management/address space.md",
     "Memory Management/Page tables/page.md",
     "Processes/process state.md",
     "Memory Management/TLBs/address space ID.md",
     "mips/MIPS R3000.md",
-    "Memory Management/Page tables/multi-level page table.md",
     "Threading/context switch.md",
     "OS components/exception.md",
-    "Concepts/fragmentation.md",
-    "Concepts/architecture.md",
-    "Memory Management/memory sharing.md",
-    "Memory Management/Page tables/page fault.md",
-    "Memory Management/copy on write.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
