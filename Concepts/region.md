@@ -1,0 +1,1 @@
+A region is an area of [[virtual memory]] within the [[address space]] of a [[process]]. Each region has certain properties that define how it can be accessed, (read, write, execute), which are usually derived from the kind of [[segment]] in the executable from which it was loaded.
