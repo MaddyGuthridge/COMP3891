@@ -18,53 +18,19 @@
             }
           },
           {
-            "id": "016e6d3e01c95c26",
+            "id": "d5b63397b584f760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/BIOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f11d2e6e67ed9040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/segment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9af6600173641f63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "bc046c5bbc0e8085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/region.md",
+                "file": "mips/R3000 TLB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/segment.md",
+                "file": "mips/R3000 TLB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/segment.md",
+                "file": "mips/R3000 TLB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/segment.md"
+                "file": "mips/R3000 TLB.md"
               }
             }
           },
@@ -217,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9af6600173641f63",
+  "active": "d5b63397b584f760",
   "lastOpenFiles": [
-    "Concepts/region.md",
-    "Concepts/segment.md",
+    "Memory Management/TLBs/translation look-aside buffer.md",
     "Concepts/BIOS.md",
+    "Concepts/segment.md",
+    "Concepts/region.md",
     "Memory Management/Page tables/multi-level page table.md",
     "Concepts/architecture.md",
     "Memory Management/TLBs/TLB refill.md",
@@ -234,7 +201,6 @@
     "Memory Management/virtual memory.md",
     "Memory Management/physical memory.md",
     "Memory Management/Page tables/two-level page table.md",
-    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/Page tables/inverted page table.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
