@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "9af6600173641f63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "bc046c5bbc0e8085",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f11d2e6e67ed9040",
+  "active": "9af6600173641f63",
   "lastOpenFiles": [
     "Concepts/region.md",
     "Concepts/segment.md",
