@@ -185,6 +185,8 @@
   },
   "active": "d5b63397b584f760",
   "lastOpenFiles": [
+    "mips/R3000 address space layout.md",
+    "mips/R3000 TLB.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
     "Concepts/BIOS.md",
     "Concepts/segment.md",
@@ -202,8 +204,6 @@
     "Memory Management/physical memory.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/inverted page table.md",
-    "mips/R3000 address space layout.md",
-    "mips/R3000 TLB.md",
     "File Systems/file allocation/inode-based allocation.md",
     "File Systems/case studies/ext2.md",
     "File Systems/case studies/ext3.md",
