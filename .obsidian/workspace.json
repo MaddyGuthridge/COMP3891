@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mips/R3000 address space layout.md",
+                "file": "Memory Management/Page tables/hashed page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mips/R3000 address space layout.md"
+                "file": "Memory Management/Page tables/hashed page table.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "78d6a1d154ee0e52",
   "lastOpenFiles": [
-    "mips/R3000 TLB.md",
+    "Memory Management/copy on write.md",
+    "Memory Management/Page tables/hashed page table.md",
     "mips/R3000 address space layout.md",
+    "mips/R3000 TLB.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
     "Concepts/BIOS.md",
     "Concepts/segment.md",
@@ -208,8 +210,6 @@
     "Memory Management/TLBs/TLB refill.md",
     "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/page replacement.md",
-    "Memory Management/Page tables/hashed page table.md",
-    "Memory Management/copy on write.md",
     "Memory Management/address space.md",
     "Memory Management/tracking free memory.md",
     "Memory Management/virtual memory.md",
