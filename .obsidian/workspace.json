@@ -83,7 +83,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor system.md",
+                "file": "Threading/synchronisation primitive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de90b4e8681a92fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/synchronisation primitive.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
+                "file": "Threading/semaphore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d263d9818b3b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/synchronisation primitive.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
+                "file": "Threading/synchronisation primitive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
+                "file": "Threading/synchronisation primitive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessor.md"
+                "file": "Threading/synchronisation primitive.md"
               }
             }
           },
@@ -323,10 +347,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46e9cc7e513aebaa",
+  "active": "1e80ed9bf4fd53b5",
   "lastOpenFiles": [
-    "Multiprocessor Systems/multiprocessor system.md",
+    "Threading/lock.md",
+    "Threading/spin lock.md",
+    "Threading/synchronisation primitive.md",
     "Multiprocessor Systems/symmetric multiprocessor.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Threading/semaphore.md",
     "Concepts/Hardware/bus.md",
     "Multiprocessor Systems/bus-based uniform memory access.md",
     "Concepts/Hardware/ROM.md",
@@ -348,11 +376,7 @@
     "Memory Management/copy on write.md",
     "Memory Management/memory management.md",
     "Memory Management/memory resources.md",
-    "README.md",
-    "Concepts/userland.md",
-    "mips/R3000 TLB.md",
     "Multiprocessor Systems",
-    "Memory Management/levels of translation.md",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
     "Memory Management/TLBs",
     "Concepts",
