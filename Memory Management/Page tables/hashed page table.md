@@ -28,11 +28,13 @@ When external chaining is used, hash collisions are resolved by using an additio
 | 1       | `0x52345`    | Link to a tree with all the entries |
 
 ### Tree structure
-| property | description                      |
-| -------- | -------------------------------- |
-| left     | Element to the left in the tree  |
-| right    | Element to the right in the tree |
-|          |                                  |
+| property              | description                                                                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| left                  | Element to the left in the tree                                                                                                             |
+| right                 | Element to the right in the tree                                                                                                            |
+| pid                   | unique identifier for the process - could be the the PID, but any value unique to it should work (such as the pointer to its address space) |
+| virtual page number   | Page number associated with this entry                                                                                                      |
+| physical frame number | Frame number this entry links to                                                                                                            |
 
 ## Lookup process
 - Given virtual address

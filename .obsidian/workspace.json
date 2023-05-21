@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/levels of translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/levels of translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md",
+                "file": "Memory Management/levels of translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/hashed page table.md"
+                "file": "Memory Management/levels of translation.md"
               }
             }
           },
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +203,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a4937ead05a80e1",
+  "active": "78d6a1d154ee0e52",
   "lastOpenFiles": [
-    "Memory Management/Page tables/Untitled.md",
     "Memory Management/Page tables/hashed page table.md",
+    "Memory Management/Page tables/Pasted image 20230522001953.png",
+    "Memory Management/Page tables/Untitled.md",
     "Memory Management/copy on write.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
@@ -230,7 +232,6 @@
     "OS components/syscall.md",
     "Memory Management/TLBs",
     "Memory Management/Page tables/page.md",
-    "Processes/process state.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
