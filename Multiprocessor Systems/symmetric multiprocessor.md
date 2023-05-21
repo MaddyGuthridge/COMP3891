@@ -1,4 +1,4 @@
-Symmetric multiprocessing describes when the [[kernel]] is run on all [[CPU|CPUs]], and the [[process|processes]] and [[memory resources]] are shared between all cores, including for kernel execution. This offers massive performance benefits, but means that our kernel needs to use proper [[synchronisation primitive]] to avoid disaster.
+Symmetric multiprocessing (SMP) describes when the [[kernel]] is run on all [[CPU|CPUs]], and the [[process|processes]] and [[memory resources]] are shared between all cores, including for kernel execution. This offers massive performance benefits, but means that our kernel needs to use proper [[synchronisation primitive]] to avoid disaster.
 
 ## Strategies
 
@@ -34,4 +34,9 @@ Instead we need dedicated hardware to facilitate concurrency.
 	  }
 	  // We now own the lock
 	```
-- 
+
+## To spin or to block
+
+On a uniprocessor, you should always block (switch to another task), since spinning wastes CPU that could be used by another task.
+
+On SMP systems, it's less clear, since the lock may be held by a different CPU - if that's the case a [[context switch]] might be slower than just waiting.
