@@ -1,0 +1,1 @@
+Central processing unit - responsible for performing all the calculations. The operations it can perform and the way that it does this is determined by the [[architecture]].

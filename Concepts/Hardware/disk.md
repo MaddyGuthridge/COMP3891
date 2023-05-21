@@ -1,0 +1,1 @@
+Long-term storage, used for persisting data between shut-downs and reboots of the [[operating system]]. Is formatted with a [[file system]] in order to abstract over the raw data on the disk.

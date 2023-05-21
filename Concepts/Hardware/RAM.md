@@ -1,0 +1,1 @@
+Random access memory. Contains the full memory for the running [[operating system]]. Often managed by a [[virtual memory]] subsystem.

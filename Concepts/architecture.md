@@ -1,4 +1,4 @@
-An architecture usually refers to the instruction set used by a CPU.
+An architecture usually refers to the instruction set used by a [[CPU]].
 
 ## [[MIPS]]
 The one targeted by [[os-161]], and emulated by [[sys-161]]. Not widely used anymore.

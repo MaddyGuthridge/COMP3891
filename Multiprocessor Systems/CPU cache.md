@@ -1,1 +1,1 @@
-In order to improve performance, processors can use a local cache on top of [[bus-based uniform memory access]] to improve lookup speeds.
+In order to improve performance, processors can use a local cache on top of [[bus-based uniform memory access]] to improve lookup speeds. If the software uses little enough memory that it all fits in the cache, the performance can be extremely fast, but otherwise, the bus speed is still a bottleneck.

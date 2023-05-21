@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
+                "file": "Concepts/BIOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,9 +88,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae13d0c996bf6cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Hardware/CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ecc0b7a73d4d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Hardware/RAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f9b7911448ed60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Hardware/RAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/CPU cache.md",
+                "file": "Concepts/BIOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/CPU cache.md",
+                "file": "Concepts/BIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/CPU cache.md"
+                "file": "Concepts/BIOS.md"
               }
             }
           },
@@ -251,10 +287,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f9dd097ff0f2594",
+  "active": "bfaf2a15cec54a43",
   "lastOpenFiles": [
+    "Concepts/Hardware/CPU.md",
+    "Concepts/architecture.md",
     "Multiprocessor Systems/bus-based uniform memory access.md",
     "Multiprocessor Systems/CPU cache.md",
+    "OS components/operating system.md",
+    "Concepts/Hardware/RAM.md",
+    "Concepts/Hardware/disk.md",
+    "Concepts/BIOS.md",
+    "Concepts/Hardware",
+    "Multiprocessor Systems/Cache consistency.md",
     "Memory Management/memory sharing.md",
     "Memory Management/page file.md",
     "Memory Management/physical memory.md",
@@ -262,7 +306,6 @@
     "Memory Management/copy on write.md",
     "Memory Management/memory management.md",
     "Memory Management/memory resources.md",
-    "OS components/operating system.md",
     "README.md",
     "Multiprocessor Systems/multiprocessor system.md",
     "Concepts/userland.md",
@@ -275,12 +318,6 @@
     "Memory Management/Page tables/Untitled.md",
     "mips/R3000 address space layout.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
-    "Concepts/BIOS.md",
-    "Concepts/segment.md",
-    "Concepts/region.md",
-    "Memory Management/Page tables/multi-level page table.md",
-    "Concepts/architecture.md",
-    "Memory Management/TLBs/TLB refill.md",
     "Memory Management/TLBs",
     "Concepts",
     "Memory Management",
@@ -288,7 +325,6 @@
     "File Systems/file allocation",
     "File Systems/case studies",
     "File Systems/types",
-    "OS components/syscalls",
-    "os-161"
+    "OS components/syscalls"
   ]
 }
