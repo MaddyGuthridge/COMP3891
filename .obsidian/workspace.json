@@ -203,10 +203,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a796e8948f111d11",
+  "active": "78d6a1d154ee0e52",
   "lastOpenFiles": [
-    "Memory Management/copy on write.md",
+    "Memory Management/Page tables/Untitled.md",
     "Memory Management/Page tables/hashed page table.md",
+    "Memory Management/copy on write.md",
     "mips/R3000 address space layout.md",
     "mips/R3000 TLB.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
@@ -231,7 +232,6 @@
     "Memory Management/TLBs",
     "Memory Management/Page tables/page.md",
     "Processes/process state.md",
-    "Memory Management/TLBs/address space ID.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",

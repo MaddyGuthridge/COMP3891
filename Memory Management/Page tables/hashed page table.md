@@ -2,7 +2,10 @@ A hashed page table is a [[page table]] that uses a hash table to map from [[vir
 
 This also allows for boot-time tuning, based on physical memory size, the amount of expected sharing, and requirements for hash collision avoidance. For example, if you only expect one process to use the majority of memory, you wouldn't need to optimise for sharing as much.
 
-## Layout
+The length of the table should be a power-of-2 multiple of the number of frames of physical memory.
+
+## Internal chaining layout
+When internal chaining is used, a `next` property is used to give the `next` index to allow for a search to proceed when a hash collision occurs.
 | *index* | PID | virtual page number | physical frame number | ctrl | next | comment                                                                                       |
 | -----:| ---:| -------------------:| ---------------------:| ---- | ---- | --------------------------------------------------------------------------------------------- |
 |     0 |     |                     |                       |      |      | empty frames                                                                                  |
@@ -14,7 +17,7 @@ This also allows for boot-time tuning, based on physical memory size, the amount
 |     6 |   3 |                0x5D |                  0xA2 |      |      | The frame is shared with a different process                                                  |
 |     7 |   5 |                0x28 |                  0xA2 |      |      | Even though the frame numbers are equal, there is no need for the page numbers to be the same |
 
-The number of indexes should be a power-of-2 multiple of the number of frames of physical memory.
+
 
 ## Lookup process
 - Given virtual address
