@@ -1,0 +1,1 @@
+For most of the OS course, it is assumed that we're running on a single processor

@@ -30,12 +30,12 @@
             }
           },
           {
-            "id": "78d6a1d154ee0e52",
+            "id": "6d8a8f1696b721ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Multiprocessor Systems/multiprocessor systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Multiprocessor Systems/multiprocessor systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/levels of translation.md",
+                "file": "Multiprocessor Systems/multiprocessor systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/levels of translation.md"
+                "file": "Multiprocessor Systems/multiprocessor systems.md"
               }
             }
           },
@@ -203,14 +203,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78d6a1d154ee0e52",
+  "active": "6e17cac0900edbc1",
   "lastOpenFiles": [
+    "mips/R3000 TLB.md",
+    "Multiprocessor Systems/multiprocessor systems.md",
+    "Multiprocessor Systems",
+    "Memory Management/levels of translation.md",
     "Memory Management/Page tables/hashed page table.md",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
     "Memory Management/Page tables/Untitled.md",
     "Memory Management/copy on write.md",
     "mips/R3000 address space layout.md",
-    "mips/R3000 TLB.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
     "Concepts/BIOS.md",
     "Concepts/segment.md",
@@ -231,7 +234,6 @@
     "File Systems/case studies/ext3.md",
     "OS components/syscall.md",
     "Memory Management/TLBs",
-    "Memory Management/Page tables/page.md",
     "Concepts",
     "Memory Management",
     "Memory Management/Page tables",
@@ -239,7 +241,6 @@
     "File Systems/case studies",
     "File Systems/types",
     "OS components/syscalls",
-    "os-161",
-    "OS components"
+    "os-161"
   ]
 }
