@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98e01cab2f7fa5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/Amdahl's law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor systems.md",
+                "file": "Multiprocessor Systems/Amdahl's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor systems.md",
+                "file": "Multiprocessor Systems/Amdahl's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor systems.md"
+                "file": "Multiprocessor Systems/Amdahl's law.md"
               }
             }
           },
@@ -203,10 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e17cac0900edbc1",
+  "active": "98e01cab2f7fa5db",
   "lastOpenFiles": [
-    "mips/R3000 TLB.md",
     "Multiprocessor Systems/multiprocessor systems.md",
+    "Multiprocessor Systems/Amdahl's law.md",
+    "mips/R3000 TLB.md",
     "Multiprocessor Systems",
     "Memory Management/levels of translation.md",
     "Memory Management/Page tables/hashed page table.md",
@@ -232,7 +245,6 @@
     "File Systems/file allocation/inode-based allocation.md",
     "File Systems/case studies/ext2.md",
     "File Systems/case studies/ext3.md",
-    "OS components/syscall.md",
     "Memory Management/TLBs",
     "Concepts",
     "Memory Management",
