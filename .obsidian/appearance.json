@@ -2,5 +2,6 @@
   "theme": "system",
   "translucency": false,
   "accentColor": "",
-  "cssTheme": "Royal Velvet"
+  "cssTheme": "Royal Velvet",
+  "nativeMenus": false
 }

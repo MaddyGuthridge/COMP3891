@@ -23,170 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mips/R3000 TLB.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d8a8f1696b721ae",
+            "id": "d0cb738b740588de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e01cab2f7fa5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/Amdahl's law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfaf2a15cec54a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/BIOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9dd097ff0f2594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e80ed9bf4fd53b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/synchronisation primitive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de90b4e8681a92fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/synchronisation primitive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46e9cc7e513aebaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/semaphore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8d263d9818b3b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/synchronisation primitive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f7089f72c6f94b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4374dcd07f6d3f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/operating system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae13d0c996bf6cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ecc0b7a73d4d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/RAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03f9b7911448ed60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/RAM.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/synchronisation primitive.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/synchronisation primitive.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/synchronisation primitive.md"
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md"
               }
             }
           },
@@ -347,24 +203,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e80ed9bf4fd53b5",
+  "active": "d0cb738b740588de",
   "lastOpenFiles": [
+    "Multiprocessor Systems/scalability.md",
+    "Multiprocessor Systems/symmetric multiprocessor.md",
+    "mips/R3000 TLB.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Multiprocessor Systems/Amdahl's law.md",
+    "Concepts/BIOS.md",
+    "Multiprocessor Systems/bus-based uniform memory access.md",
+    "Threading/synchronisation primitive.md",
     "Threading/lock.md",
     "Threading/spin lock.md",
-    "Threading/synchronisation primitive.md",
-    "Multiprocessor Systems/symmetric multiprocessor.md",
-    "Multiprocessor Systems/multiprocessor system.md",
     "Threading/semaphore.md",
     "Concepts/Hardware/bus.md",
-    "Multiprocessor Systems/bus-based uniform memory access.md",
     "Concepts/Hardware/ROM.md",
     "Multiprocessor Systems/Cache consistency.md",
     "Multiprocessor Systems/CPU cache.md",
     "Concepts/Hardware/CPU.md",
     "Concepts/Hardware/multi-core processor.md",
     "OS components/operating system.md",
-    "Multiprocessor Systems/Amdahl's law.md",
-    "Concepts/BIOS.md",
     "Concepts/architecture.md",
     "Concepts/Hardware/RAM.md",
     "Concepts/Hardware/disk.md",
@@ -374,8 +232,6 @@
     "Memory Management/physical memory.md",
     "Memory Management/address space.md",
     "Memory Management/copy on write.md",
-    "Memory Management/memory management.md",
-    "Memory Management/memory resources.md",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
     "Memory Management/TLBs",
