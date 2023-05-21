@@ -25,3 +25,13 @@ Instead we need dedicated hardware to facilitate concurrency.
 	- This causes the [[bus]] bandwidth to be wasted
 - Instead, we could read the lock over and over until it changes, then we could run the test and set.
 	- With a cache, this means that it'll work without clogging up the [[bus]]
+	```c
+	start:
+	  while (lock == 1);
+	  r = TSL(lock);
+	  if (r == 1) {
+		goto start;
+	  }
+	  // We now own the lock
+	```
+- 
