@@ -185,12 +185,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78d6a1d154ee0e52",
+  "active": "9a4937ead05a80e1",
   "lastOpenFiles": [
     "Memory Management/Page tables/Untitled.md",
     "Memory Management/Page tables/hashed page table.md",

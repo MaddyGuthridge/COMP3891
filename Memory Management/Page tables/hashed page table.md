@@ -17,7 +17,22 @@ When internal chaining is used, a `next` property is used to give the `next` ind
 |     6 |   3 |                0x5D |                  0xA2 |      |      | The frame is shared with a different process                                                  |
 |     7 |   5 |                0x28 |                  0xA2 |      |      | Even though the frame numbers are equal, there is no need for the page numbers to be the same |
 
+## External chaining layout
+When external chaining is used, hash collisions are resolved by using an additional data structure such as a binary tree to store all of the entries at a particular index.
 
+### Table layout
+
+| *index* | \*frame_tree | comment                             |
+| ------- | ------------ | ----------------------------------- |
+| 0       | `NULL`       | No entry with this hash             |
+| 1       | `0x52345`    | Link to a tree with all the entries |
+
+### Tree structure
+| property | description                      |
+| -------- | -------------------------------- |
+| left     | Element to the left in the tree  |
+| right    | Element to the right in the tree |
+|          |                                  |
 
 ## Lookup process
 - Given virtual address
