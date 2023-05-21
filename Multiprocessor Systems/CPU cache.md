@@ -1,0 +1,1 @@
+In order to improve performance, processors can use a local cache on top of [[bus-based uniform memory access]] to improve lookup speeds.

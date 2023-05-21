@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor systems.md",
+                "file": "Multiprocessor Systems/multiprocessor system.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/multiprocessor systems.md",
+                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9dd097ff0f2594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/CPU cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/operating system.md",
+                "file": "Multiprocessor Systems/CPU cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/operating system.md",
+                "file": "Multiprocessor Systems/CPU cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS components/operating system.md"
+                "file": "Multiprocessor Systems/CPU cache.md"
               }
             }
           },
@@ -239,12 +251,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4374dcd07f6d3f15",
+  "active": "0f9dd097ff0f2594",
   "lastOpenFiles": [
-    "Concepts/userland.md",
+    "Multiprocessor Systems/bus-based uniform memory access.md",
+    "Multiprocessor Systems/CPU cache.md",
+    "Memory Management/memory sharing.md",
+    "Memory Management/page file.md",
+    "Memory Management/physical memory.md",
+    "Memory Management/address space.md",
+    "Memory Management/copy on write.md",
+    "Memory Management/memory management.md",
+    "Memory Management/memory resources.md",
     "OS components/operating system.md",
-    "Multiprocessor Systems/multiprocessor systems.md",
-    "Multiprocessor Systems/Bus-based uniform memory access.md",
+    "README.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Concepts/userland.md",
     "Multiprocessor Systems/Amdahl's law.md",
     "mips/R3000 TLB.md",
     "Multiprocessor Systems",
@@ -252,7 +273,6 @@
     "Memory Management/Page tables/hashed page table.md",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
     "Memory Management/Page tables/Untitled.md",
-    "Memory Management/copy on write.md",
     "mips/R3000 address space layout.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
     "Concepts/BIOS.md",
@@ -261,14 +281,6 @@
     "Memory Management/Page tables/multi-level page table.md",
     "Concepts/architecture.md",
     "Memory Management/TLBs/TLB refill.md",
-    "Memory Management/Page tables/page table.md",
-    "Memory Management/Page tables/page replacement.md",
-    "Memory Management/address space.md",
-    "Memory Management/tracking free memory.md",
-    "Memory Management/virtual memory.md",
-    "Memory Management/physical memory.md",
-    "Memory Management/Page tables/two-level page table.md",
-    "Memory Management/Page tables/inverted page table.md",
     "Memory Management/TLBs",
     "Concepts",
     "Memory Management",
