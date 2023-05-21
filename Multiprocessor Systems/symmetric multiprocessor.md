@@ -15,4 +15,13 @@ Symmetric multiprocessing describes when the [[kernel]] is run on all [[CPU|CPUs
 - Kernel 2.6 had most code out of the big lock, using data-based locks instead.
 
 ## Ensuring synchronisation
-We can't disable interrupts like we could before
+We can't disable interrupts like we can in uniprocessor systems, since that doesn't stop other CPUs from executing in parallel.
+
+Instead we need dedicated hardware to facilitate concurrency.
+
+- Can't directly use a "test and set" instruction, since memory could also be accessed by other cores.
+- However, we could use it if we can block access to the [[bus]] for the duration of the instruction.
+	- But that's sloooowwww, especially due to [[spin lock|spin locks]] using busy waiting when there is lock contention
+	- This causes the [[bus]] bandwidth to be wasted
+- Instead, we could read the lock over and over until it changes, then we could run the test and set.
+	- With a cache, this means that it'll work without clogging up the [[bus]]
