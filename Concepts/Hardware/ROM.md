@@ -1,0 +1,1 @@
+Read only memory. Often used to store system firmware, such as the [[BIOS]].

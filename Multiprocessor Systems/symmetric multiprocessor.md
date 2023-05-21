@@ -1,0 +1,1 @@
+Symmetric multiprocessing describes when the [[kernel]] is run on all [[CPU|CPUs]], and the [[process|processes]] and [[memory resources]] are shared between all cores.

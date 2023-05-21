@@ -71,7 +71,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/CPU cache.md",
+                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e80ed9bf4fd53b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/multiprocessor system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e9cc7e513aebaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f7089f72c6f94b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Hardware/CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -200,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/BIOS.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/BIOS.md",
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/BIOS.md"
+                "file": "Multiprocessor Systems/symmetric multiprocessor.md"
               }
             }
           },
@@ -287,18 +323,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfaf2a15cec54a43",
+  "active": "46e9cc7e513aebaa",
   "lastOpenFiles": [
-    "Concepts/Hardware/CPU.md",
-    "Concepts/architecture.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Multiprocessor Systems/symmetric multiprocessor.md",
+    "Concepts/Hardware/bus.md",
     "Multiprocessor Systems/bus-based uniform memory access.md",
+    "Concepts/Hardware/ROM.md",
+    "Multiprocessor Systems/Cache consistency.md",
     "Multiprocessor Systems/CPU cache.md",
+    "Concepts/Hardware/CPU.md",
+    "Concepts/Hardware/multi-core processor.md",
     "OS components/operating system.md",
+    "Multiprocessor Systems/Amdahl's law.md",
+    "Concepts/BIOS.md",
+    "Concepts/architecture.md",
     "Concepts/Hardware/RAM.md",
     "Concepts/Hardware/disk.md",
-    "Concepts/BIOS.md",
     "Concepts/Hardware",
-    "Multiprocessor Systems/Cache consistency.md",
     "Memory Management/memory sharing.md",
     "Memory Management/page file.md",
     "Memory Management/physical memory.md",
@@ -307,17 +349,11 @@
     "Memory Management/memory management.md",
     "Memory Management/memory resources.md",
     "README.md",
-    "Multiprocessor Systems/multiprocessor system.md",
     "Concepts/userland.md",
-    "Multiprocessor Systems/Amdahl's law.md",
     "mips/R3000 TLB.md",
     "Multiprocessor Systems",
     "Memory Management/levels of translation.md",
-    "Memory Management/Page tables/hashed page table.md",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
-    "Memory Management/Page tables/Untitled.md",
-    "mips/R3000 address space layout.md",
-    "Memory Management/TLBs/translation look-aside buffer.md",
     "Memory Management/TLBs",
     "Concepts",
     "Memory Management",
