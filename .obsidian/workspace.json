@@ -52,9 +52,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfaf2a15cec54a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/multiprocessor systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4374dcd07f6d3f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/operating system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/Amdahl's law.md",
+                "file": "OS components/operating system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/Amdahl's law.md",
+                "file": "OS components/operating system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/Amdahl's law.md"
+                "file": "OS components/operating system.md"
               }
             }
           },
@@ -215,9 +239,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98e01cab2f7fa5db",
+  "active": "4374dcd07f6d3f15",
   "lastOpenFiles": [
+    "Concepts/userland.md",
+    "OS components/operating system.md",
     "Multiprocessor Systems/multiprocessor systems.md",
+    "Multiprocessor Systems/Bus-based uniform memory access.md",
     "Multiprocessor Systems/Amdahl's law.md",
     "mips/R3000 TLB.md",
     "Multiprocessor Systems",
@@ -242,9 +269,6 @@
     "Memory Management/physical memory.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/inverted page table.md",
-    "File Systems/file allocation/inode-based allocation.md",
-    "File Systems/case studies/ext2.md",
-    "File Systems/case studies/ext3.md",
     "Memory Management/TLBs",
     "Concepts",
     "Memory Management",
