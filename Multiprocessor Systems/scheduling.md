@@ -8,4 +8,6 @@ Whenever there are multiple tasks, we need to decide which order to run them in,
 
 Scheduling isn't required for
 - Simple systems like washing machines
-- Early systems (eg when batching)
+- Early computers (eg when batching)
+
+Scheduling is a must-have for any kind of meaningful computer system these days.
