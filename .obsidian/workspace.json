@@ -6,7 +6,6 @@
       {
         "id": "4bbf507a70625498",
         "type": "tabs",
-        "dimension": 64.72081218274111,
         "children": [
           {
             "id": "4c0a66a9178317c6",
@@ -19,68 +18,12 @@
             }
           },
           {
-            "id": "e6a01acf1284b5a9",
+            "id": "20029c6b2ad66ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "033e598fcb0febfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1e3ebc7622f0394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/starvation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de408c941a81217e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/deadlock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5da350453416def2",
-        "type": "tabs",
-        "dimension": 35.27918781725889,
-        "children": [
-          {
-            "id": "72c2552794989b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/threading issues.md",
+                "file": "Concepts/Hardware/multi-core processor.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,10 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "033e598fcb0febfb",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
-    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
+    "Concepts/Hardware/multi-core processor.md",
+    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Multiprocessor Systems/symmetric multiprocessing.md",
     "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
+    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
     "Threading/deadlock.md",
     "Threading/livelock.md",
     "Threading/threading issues.md",
@@ -265,17 +208,13 @@
     "Multiprocessor Systems/scheduling algorithms",
     "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/scheduling considerations.md",
-    "Multiprocessor Systems/symmetric multiprocessor.md",
     "Concepts/Hardware/bus.md",
     "Multiprocessor Systems/scalability.md",
     "mips/R3000 TLB.md",
-    "Multiprocessor Systems/multiprocessor system.md",
     "Multiprocessor Systems/Amdahl's law.md",
     "Concepts/BIOS.md",
     "Multiprocessor Systems/bus-based uniform memory access.md",
     "Threading/synchronisation primitive.md",
-    "Threading/lock.md",
-    "Threading/spin lock.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",

@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 10050774
       }
+    },
+    {
+      "query": "Scheduling",
+      "color": {
+        "a": 1,
+        "rgb": 16065704
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 12.814380153012,
   "linkStrength": 1,
   "linkDistance": 197,
-  "scale": 0.3312465159596272,
+  "scale": 0.22083101063975136,
   "close": false
 }
