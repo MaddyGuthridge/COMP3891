@@ -1,6 +1,6 @@
 Abbreviated as *TLB*.
 
-Physical hardware on a CPU to accelerate page table lookups, acting as a cache. Aka *memory management unit*. It contains recently-used [[page table]] entries (usually 64-128 entries according to slides, but `cpuid` says my laptop has over 1500 L2 entries 🤔).
+Physical hardware on a [[CPU]] to accelerate [[page table]] lookups, acting much like a [[CPU cache|cache]]. Aka *memory management unit*. It contains recently-used [[page table]] entries (usually 64-128 entries according to slides, but `cpuid` says my laptop has over 1500 L2 entries 🤔).
 
 ## How it works
 

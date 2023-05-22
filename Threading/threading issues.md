@@ -28,13 +28,14 @@ Similar to deadlock, but both threads are still doing stuff. See [[livelock]].
 
 ### Disabling interrupts (similarly bad)
 - Disable interrupts during critical sections
-- Can only work in kernel - apps can't be trusted, since it requires cooperation
+- Can only work in [[kernel]] - apps can't be trusted, since it requires cooperation
 - Slows interrupt response times
+- Doesn't work on [[multiprocessor system|multiprocessor systems]], since it doesn't block other [[CPU|CPUs]].
 
 ### Hardware support (aka [[spin lock]])
 - "test and set" instruction
 - Atomic operation
-- Busy waiting - consumes CPU
+- Busy waiting - consumes [[CPU]]
 
 ### Sleep-wakeup
 - Sleep processes while they wait

@@ -18,348 +18,12 @@
             }
           },
           {
-            "id": "e40eafec14f780ea",
+            "id": "9fb9e672de30551c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threading/spin lock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55f2614091bc694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/lock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db925a591dfe58d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d573018d1bf0b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f5dc7f351403bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/coprocessor 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d1ace242f89bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/exception.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40300f13921bb44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/exception vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a953394985ddb7c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbc9275bb5dbb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mips/MIPS R3000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5be7b039e0f2744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05002001ef5292c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/multiprogramming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ac4ff666c7f2a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ded5f2a0d8bdeedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe12cfe5d0f8d302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/address space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e2b21dff2414c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process state.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9577550e1d672b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/address space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab3deb4bf19adc7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/scheduler activations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de4c9885a4c71a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processes/process memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17e7a88f970d310d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/upcalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d08e7e040b4f2b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe4106f2ef39d96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/CPU cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e1256de38199a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2167fb61bd67d218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/bottleneck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05ace03da3ab0e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threading/threading issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20029c6b2ad66ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hardware/multi-core processor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d38c2def55c4bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/Page tables/multi-level page table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d17f24e6b4be07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f3788d7bdf60bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c65ef8c0387d2b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/preemption.md",
+                "file": "Memory Management/memory resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -395,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CPU",
+                "query": "kernel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -440,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/spin lock.md",
+                "file": "Memory Management/memory resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/spin lock.md",
+                "file": "Memory Management/memory resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -480,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/spin lock.md"
+                "file": "Memory Management/memory resources.md"
               }
             }
           },
@@ -527,34 +191,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e40eafec14f780ea",
+  "active": "9fb9e672de30551c",
   "lastOpenFiles": [
+    "OS components/syscalls/write.md",
+    "Concepts/userland.md",
+    "Threading/threading issues.md",
+    "OS components/syscalls/read.md",
+    "OS components/mode switching.md",
+    "OS components/kernel.md",
+    "File Systems/file.md",
+    "OS components/execution mode.md",
+    "mips/coprocessor 0.md",
+    "Threading/upcalls.md",
+    "Memory Management/TLBs/translation look-aside buffer.md",
+    "Memory Management/TLBs/TLB refill.md",
+    "OS components/syscall.md",
+    "Threading/spin lock.md",
+    "OS components/syscalls/reboot.md",
+    "Processes/process state.md",
+    "Multiprocessor Systems/bus-based uniform memory access.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Multiprocessor Systems/scheduling considerations.md",
+    "Multiprocessor Systems/Cache consistency.md",
     "Threading/starvation.md",
     "Threading/synchronisation primitive.md",
     "Threading/thread.md",
-    "Threading/threading issues.md",
-    "Threading/upcalls.md",
     "Threading/lock.md",
     "Multiprocessor Systems/Amdahl's law.md",
     "Processes/process memory.md",
-    "File Systems/vnode.md",
-    "Threading/scheduler activations.md",
-    "Memory Management/address space.md",
-    "Processes/process state.md",
-    "Processes/process.md",
-    "Threading/ready queue.md",
-    "Concepts/multiprogramming.md",
-    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
-    "mips/MIPS R3000.md",
-    "OS components/kernel.md",
-    "mips/exception vectors.md",
-    "OS components/exception.md",
-    "mips/coprocessor 0.md",
-    "Multiprocessor Systems/symmetric multiprocessing.md",
-    "Concepts/Hardware/CPU.md",
-    "Multiprocessor Systems/CPU cache.md",
-    "Multiprocessor Systems/scheduling algorithms/bottleneck.md",
-    "Memory Management/Page tables/multi-level page table.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",

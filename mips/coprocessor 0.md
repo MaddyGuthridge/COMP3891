@@ -1,6 +1,6 @@
 A set of registers in [[MIPS]], which contains processor control registers, which manage exceptions and interrupts.
 
-Can only be accessed using `mtc0` (move to coprocessor 0) and `mfc0` (move from coprocessor 0) instructions. These instructions require the kernel [[execution mode]].
+Can only be accessed using `mtc0` (move to coprocessor 0) and `mfc0` (move from coprocessor 0) instructions. These instructions require the [[kernel]] [[execution mode]].
 
 ## Registers
 

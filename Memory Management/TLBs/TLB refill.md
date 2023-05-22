@@ -2,10 +2,10 @@ When a [[context switch]] occurs, or the [[translation look-aside buffer|TLB]] m
 
 ## Strategies for handling refills
 
-The system for handling TLB misses depends on on the CPU [[architecture]].
+The system for handling TLB misses depends on on the [[CPU]] [[architecture]].
 
 ### Hardware-loaded
-TLB misses perform a [[page table]] lookup in hardware, then refill the table. This means the process is ***🔥 BLAZINGLY FAST 🔥***, but the [[kernel]] has very little control over it (you need to use the page table as designated by the CPU).
+TLB misses perform a [[page table]] lookup in hardware, then refill the table. This means the process is ***🔥 BLAZINGLY FAST 🔥***, but the [[kernel]] has very little control over it (you need to use the page table as designated by the [[CPU]]).
 
 This technique is used by the x86 and ARM [[architecture|architectures]].
 

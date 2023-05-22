@@ -1,6 +1,6 @@
 A file is a collection of arbitrary data. What it contains specifically is up to the programs interacting with it.
 
-Only file type that the Kernel needs to deal with is executables (eg `.exe` on Windows)
+Only file type that the [[kernel]] needs to deal with is executables (eg `.exe` on Windows)
 
 Some files aren't really files, especially on UNIX-y systems:
 
