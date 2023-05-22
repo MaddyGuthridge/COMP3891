@@ -17,5 +17,12 @@ Just uses a single scheduling system and a global [[lock]].
 We try to run a process on the same core that it ran on last time.
 
 ## Multiple queue multiprocessor scheduling
-- Each [[CPU]] has its own [[ready queue]]
-- A coase-fgraine
+- Each [[CPU]] has its own [[ready queue]].
+- A corase-grained algorithm distributes the work to CPUs to avoid having a central data structure.
+- A fine-grained scheduler is run for each CPU and tries to select from its own queue.
+- If no work is available it "steals work" from another CPU by running one of its tasks instead (ensuring that if tasks were poorly assigned we don't leave some [[process|processes]] starved).
+
+### Pros
+- No lock-contention for already-assigned processes
+- Load balancing from coarse-grained algorithm
+- Automatic affinity to a [[CPU]] to avoid [[CPU cache|cache]] misses.

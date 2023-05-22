@@ -6,14 +6,14 @@ Processes are
 
 ## Properties
 ### Process management
-- Priority
+- Priority (see [[priority scheduling]])
 - Scheduling parameters
 - Process ID
 - Parent process
 - Process group
 - Signals
 - Time started
-- CPU time used
+- [[CPU]] time used (to help with [[scheduling]] for some scheduling algorithms like the [[UNIX scheduler]])
 - Children's CPU time used
 - Pending alarms
 ### Memory management

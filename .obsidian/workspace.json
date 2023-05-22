@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "e40eafec14f780ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/spin lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55f2614091bc694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2db925a591dfe58d",
             "type": "leaf",
             "state": {
@@ -36,6 +60,186 @@
               "type": "markdown",
               "state": {
                 "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f5dc7f351403bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/coprocessor 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2d1ace242f89bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40300f13921bb44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/exception vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a953394985ddb7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/kernel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cbc9275bb5dbb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mips/MIPS R3000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5be7b039e0f2744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05002001ef5292c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/multiprogramming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ac4ff666c7f2a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded5f2a0d8bdeedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe12cfe5d0f8d302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/address space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2b21dff2414c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process state.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9577550e1d672b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/address space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3deb4bf19adc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/scheduler activations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de4c9885a4c71a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processes/process memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e7a88f970d310d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/upcalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +366,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +395,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bottleneck",
+                "query": "CPU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +420,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+                "file": "Threading/spin lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+                "file": "Threading/spin lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +480,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md"
+                "file": "Threading/spin lock.md"
               }
             }
           },
@@ -324,35 +527,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d573018d1bf0b93",
+  "active": "e40eafec14f780ea",
   "lastOpenFiles": [
+    "Threading/starvation.md",
+    "Threading/synchronisation primitive.md",
+    "Threading/thread.md",
+    "Threading/threading issues.md",
+    "Threading/upcalls.md",
+    "Threading/lock.md",
+    "Multiprocessor Systems/Amdahl's law.md",
+    "Processes/process memory.md",
+    "File Systems/vnode.md",
+    "Threading/scheduler activations.md",
+    "Memory Management/address space.md",
+    "Processes/process state.md",
+    "Processes/process.md",
+    "Threading/ready queue.md",
+    "Concepts/multiprogramming.md",
+    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+    "mips/MIPS R3000.md",
+    "OS components/kernel.md",
+    "mips/exception vectors.md",
+    "OS components/exception.md",
+    "mips/coprocessor 0.md",
     "Multiprocessor Systems/symmetric multiprocessing.md",
     "Concepts/Hardware/CPU.md",
-    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
     "Multiprocessor Systems/CPU cache.md",
-    "File Systems/vnode.md",
     "Multiprocessor Systems/scheduling algorithms/bottleneck.md",
     "Memory Management/Page tables/multi-level page table.md",
-    "Concepts/preemption.md",
-    "Multiprocessor Systems/bus-based uniform memory access.md",
-    "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
-    "Concepts/Hardware/multi-core processor.md",
-    "Threading/threading issues.md",
-    "Multiprocessor Systems/multiprocessor system.md",
-    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
-    "Threading/deadlock.md",
-    "Threading/livelock.md",
-    "Threading/starvation.md",
-    "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
-    "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
-    "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
-    "Multiprocessor Systems/scheduling algorithms/batch scheduling.md",
-    "Multiprocessor Systems/scheduling algorithms/realtime scheduling.md",
-    "Concepts/segment.md",
     "Multiprocessor Systems/scheduling algorithms",
-    "Multiprocessor Systems/scheduling.md",
-    "Multiprocessor Systems/scheduling considerations.md",
-    "Concepts/Hardware/bus.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",

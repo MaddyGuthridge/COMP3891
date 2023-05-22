@@ -10,7 +10,7 @@ Cause of the recent exception (interrupt).
 We mainly care about `ExcCode` in bits 2-6 (inclusive). This contains the code number for the exception type.
 
 ### `c0_status`
-Current status of the CPU. Has a bunch of flag bits to contain a bunch of information to control the processor.
+Current status of the [[CPU]]. Has a bunch of flag bits to contain a bunch of information to control the processor.
 
 Here are some of them (but not all of them for the sake of space)
 | name  | bit | purpose                                            | values                |

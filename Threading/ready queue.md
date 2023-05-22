@@ -1,4 +1,4 @@
-- Queue of [[process]]es and [[thread]]s waiting to be run, ased on [[process state]]
+- Queue of [[process]]es and [[thread]]s waiting to be run, based on [[process state]]
 - Blocked processes shouldn't be in the ready queue - otherwise they'd just slow things down as we'd need to search the read queue until we find a process that's actually ready
 - Instead, create event queues, which contain the processes that are waiting for events
 - Multiple processes/threads can wait for one event

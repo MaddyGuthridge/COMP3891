@@ -18,7 +18,7 @@ Most modern operating systems implement a [[page table]] and/or a [[swap]] space
 It's important to ensure [[process]]es can't access each other's memory. There are several strategies for this.
 
 ### Base and Limit registers
-Track the "base" (lowest address) and "limit" (width of address space) for processes inside the CPU. Memory addresses are automatically adjusted by the CPU to fit within the limit starting from the base.
+Track the "base" (lowest address) and "limit" (width of address space) for processes inside the [[CPU]]. Memory addresses are automatically adjusted by the CPU to fit within the limit starting from the base.
 
 ```python
 def translate_base_and_limit(cpu, address):

@@ -1,3 +1,5 @@
+A spin lock is used to provide the most ba
+
 ```c
 void spin_lock() {
 	// Loop until unlocked
