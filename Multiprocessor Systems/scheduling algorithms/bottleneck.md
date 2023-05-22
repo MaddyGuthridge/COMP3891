@@ -1,0 +1,1 @@
+A bottleneck is a section of code that limits the performance of the wider system. It is important to identify and eliminate bottlenecks if we want to get the best performance out of our [[operating system]].

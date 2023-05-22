@@ -18,6 +18,90 @@
             }
           },
           {
+            "id": "2db925a591dfe58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/symmetric multiprocessing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d573018d1bf0b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d08e7e040b4f2b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Hardware/CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe4106f2ef39d96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/CPU cache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e1256de38199a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/symmetric multiprocessing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2167fb61bd67d218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/bottleneck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05ace03da3ab0e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/threading issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20029c6b2ad66ec6",
             "type": "leaf",
             "state": {
@@ -28,8 +112,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d38c2def55c4bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/multi-level page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d17f24e6b4be07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f3788d7bdf60bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/bus-based uniform memory access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65ef8c0387d2b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/preemption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "x86",
+                "query": "bottleneck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +216,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,6 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +276,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md"
+              }
             }
           },
           {
@@ -186,21 +324,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c0a66a9178317c6",
+  "active": "4d573018d1bf0b93",
   "lastOpenFiles": [
-    "Concepts/Hardware/multi-core processor.md",
-    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
-    "Multiprocessor Systems/multiprocessor system.md",
     "Multiprocessor Systems/symmetric multiprocessing.md",
+    "Concepts/Hardware/CPU.md",
+    "Multiprocessor Systems/scheduling algorithms/multiprocessor scheduling.md",
+    "Multiprocessor Systems/CPU cache.md",
+    "File Systems/vnode.md",
+    "Multiprocessor Systems/scheduling algorithms/bottleneck.md",
+    "Memory Management/Page tables/multi-level page table.md",
+    "Concepts/preemption.md",
+    "Multiprocessor Systems/bus-based uniform memory access.md",
     "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
+    "Concepts/Hardware/multi-core processor.md",
+    "Threading/threading issues.md",
+    "Multiprocessor Systems/multiprocessor system.md",
     "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
     "Threading/deadlock.md",
     "Threading/livelock.md",
-    "Threading/threading issues.md",
     "Threading/starvation.md",
     "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
     "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
-    "Concepts/preemption.md",
     "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
     "Multiprocessor Systems/scheduling algorithms/batch scheduling.md",
     "Multiprocessor Systems/scheduling algorithms/realtime scheduling.md",
@@ -209,12 +353,6 @@
     "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/scheduling considerations.md",
     "Concepts/Hardware/bus.md",
-    "Multiprocessor Systems/scalability.md",
-    "mips/R3000 TLB.md",
-    "Multiprocessor Systems/Amdahl's law.md",
-    "Concepts/BIOS.md",
-    "Multiprocessor Systems/bus-based uniform memory access.md",
-    "Threading/synchronisation primitive.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",

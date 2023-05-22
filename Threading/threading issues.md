@@ -13,13 +13,13 @@ Similar to deadlock, but both threads are still doing stuff. See [[livelock]].
 ## What we need
 - Avoid by **controlling access to shared resources using shared code** (critical sections)
 - **Mutual exclusion** - no two processes running simultaneously in critical section
-- No assumptions made about speed or number of CPUs
+- No assumptions made about speed or number of CPUs (unlike UNSW's version of [[os-161]])
 - **Progress** - process running outside critical region may block another process
 - **Bounded** - no process waits forever to enter its critical region
 
 ## Solutions
 
-### Global lock (bad)
+### Global [[lock]] (bad)
 - Not atomic - just creates a smaller race condition
 
 ### Taking turns (also bad)

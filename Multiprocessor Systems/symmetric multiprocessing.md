@@ -2,7 +2,7 @@ Symmetric multiprocessing (SMP) describes when the [[kernel]] is run on all [[CP
 
 ## Strategies
 
-- A global "big lock" for the [[kernel]]. This means that if performance is compute-bound we'll still get good performance. However, if we are limited by kernel performance, this quickly becomes a bottleneck.
+- A global "big [[lock]]" for the [[kernel]]. This means that if performance is compute-bound we'll still get good performance. However, if we are limited by kernel performance, this quickly becomes a [[bottleneck]].
 - Locks for each component of the [[kernel]]. For example, we could have a lock for the [[virtual file system]], and another for the [[virtual memory]] subsystem. If a single subsystem is hit too hard, we still get the bottleneck.
 - Data-based locks, where individual pieces of data are locked as required.
 
