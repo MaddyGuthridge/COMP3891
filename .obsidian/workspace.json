@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fb5eebec867d28",
-        "type": "tabs",
-        "dimension": 31.408629441624363,
-        "children": [
-          {
-            "id": "1d40e5e4898927c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24775fada4f7d799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/interactive scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4bbf507a70625498",
         "type": "tabs",
-        "dimension": 68.59137055837563,
         "children": [
           {
             "id": "4c0a66a9178317c6",
@@ -50,55 +18,31 @@
             }
           },
           {
-            "id": "d0cb738b740588de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/symmetric multiprocessor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee238810ee7adabe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b534a3c5835c170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiprocessor Systems/scheduling considerations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6a01acf1284b5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/realtime schedling.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/realtime scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f3aca27ad3414f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/realtime schedling.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/realtime schedling.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/realtime schedling.md"
+                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md"
               }
             }
           },
@@ -259,12 +203,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6a01acf1284b5a9",
+  "active": "3f3aca27ad3414f1",
   "lastOpenFiles": [
-    "Multiprocessor Systems/scheduling algorithm.md",
-    "Multiprocessor Systems/realtime schedling.md",
-    "Multiprocessor Systems/interactive scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms/realtime scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms",
+    "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
+    "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
     "Multiprocessor Systems/scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms/batch scheduling.md",
     "Multiprocessor Systems/scheduling considerations.md",
     "Multiprocessor Systems/symmetric multiprocessor.md",
     "Concepts/Hardware/bus.md",
@@ -285,8 +232,6 @@
     "Concepts/Hardware/multi-core processor.md",
     "OS components/operating system.md",
     "Concepts/architecture.md",
-    "Concepts/Hardware/RAM.md",
-    "Concepts/Hardware/disk.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
@@ -296,7 +241,6 @@
     "Memory Management/Page tables",
     "File Systems/file allocation",
     "File Systems/case studies",
-    "File Systems/types",
-    "OS components/syscalls"
+    "File Systems/types"
   ]
 }
