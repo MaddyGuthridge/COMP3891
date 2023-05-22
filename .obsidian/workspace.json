@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "9fb9e672de30551c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/memory resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/memory resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/memory resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory Management/memory resources.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,8 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fb9e672de30551c",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
+    "Memory Management/memory sharing.md",
+    "Memory Management/memory resources.md",
     "OS components/syscalls/write.md",
     "Concepts/userland.md",
     "Threading/threading issues.md",
@@ -217,8 +202,6 @@
     "Threading/synchronisation primitive.md",
     "Threading/thread.md",
     "Threading/lock.md",
-    "Multiprocessor Systems/Amdahl's law.md",
-    "Processes/process memory.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
