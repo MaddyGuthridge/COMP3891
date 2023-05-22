@@ -15,8 +15,10 @@ Round robin [[scheduling]] is an [[interactive scheduling|interactive]] [[schedu
 ## Cons
 - Assumes all tasks are equal in priority
 
-## Timeslice duration
-We need to decide on a good timeslice duration.
+## Time slice duration
+We need to decide on a good time slice duration.
 
 - If it is **too short**, then we waste time switching between processes due to the overhead of [[context switch|context switching]].
 - If it is **too long**, then we risk making the system unresponsive if the app handling a particular even has to wait too long in the queue.
+
+## Alternatives

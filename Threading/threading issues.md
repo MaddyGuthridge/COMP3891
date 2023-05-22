@@ -4,6 +4,9 @@ Two [[thread]]s access same data (memory, files). See [[race condition]].
 ## Deadlock
 Two threads waiting to access same data (memory, files). See [[deadlock]].
 
+## Starvation
+
+
 ## What we need
 - Avoid by **controlling access to shared resources using shared code** (critical sections)
 - **Mutual exclusion** - no two processes running simultaneously in critical section

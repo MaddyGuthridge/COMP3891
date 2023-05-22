@@ -6,6 +6,7 @@
       {
         "id": "4bbf507a70625498",
         "type": "tabs",
+        "dimension": 64.72081218274111,
         "children": [
           {
             "id": "4c0a66a9178317c6",
@@ -23,14 +24,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1e3ebc7622f0394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/starvation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "5da350453416def2",
+        "type": "tabs",
+        "dimension": 35.27918781725889,
+        "children": [
+          {
+            "id": "72c2552794989b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/threading issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
+                "file": "Threading/threading issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
+                "file": "Threading/threading issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md"
+                "file": "Threading/threading issues.md"
               }
             }
           },
@@ -191,16 +223,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6a01acf1284b5a9",
+  "active": "72c2552794989b7d",
   "lastOpenFiles": [
-    "Concepts/preemption.md",
+    "Threading/starvation.md",
+    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
     "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
+    "Threading/threading issues.md",
+    "Concepts/preemption.md",
     "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
     "Multiprocessor Systems/scheduling algorithms/batch scheduling.md",
     "Multiprocessor Systems/scheduling algorithms/realtime scheduling.md",
     "Concepts/segment.md",
     "Multiprocessor Systems/scheduling algorithms",
-    "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
     "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/scheduling considerations.md",
     "Multiprocessor Systems/symmetric multiprocessor.md",
@@ -217,9 +252,6 @@
     "Threading/semaphore.md",
     "Concepts/Hardware/ROM.md",
     "Multiprocessor Systems/Cache consistency.md",
-    "Multiprocessor Systems/CPU cache.md",
-    "Concepts/Hardware/CPU.md",
-    "Concepts/Hardware/multi-core processor.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",

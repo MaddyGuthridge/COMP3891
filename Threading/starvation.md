@@ -1,0 +1,1 @@
+Starvation happens when one thread uses all resources, preventing other threads from getting any [[CPU]] time.
