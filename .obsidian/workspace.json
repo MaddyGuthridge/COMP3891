@@ -40,9 +40,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d09f8206972a917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b534a3c5835c170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling considerations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
+                "file": "Multiprocessor Systems/scheduling considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
+                "file": "Multiprocessor Systems/scheduling considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md"
+                "file": "Multiprocessor Systems/scheduling considerations.md"
               }
             }
           },
@@ -203,10 +227,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee238810ee7adabe",
+  "active": "2b534a3c5835c170",
   "lastOpenFiles": [
-    "Multiprocessor Systems/symmetric multiprocessor.md",
     "Multiprocessor Systems/scheduling.md",
+    "Multiprocessor Systems/scheduling considerations.md",
+    "Multiprocessor Systems/scheduling algorithms.md",
+    "Multiprocessor Systems/symmetric multiprocessor.md",
     "Concepts/Hardware/bus.md",
     "Multiprocessor Systems/scalability.md",
     "mips/R3000 TLB.md",
@@ -230,8 +256,6 @@
     "Concepts/Hardware",
     "Memory Management/memory sharing.md",
     "Memory Management/page file.md",
-    "Memory Management/physical memory.md",
-    "Memory Management/address space.md",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",
     "Memory Management/TLBs",
