@@ -31,12 +31,36 @@
             }
           },
           {
+            "id": "033e598fcb0febfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1e3ebc7622f0394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Threading/starvation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de408c941a81217e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threading/deadlock.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/threading issues.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/threading issues.md",
+                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threading/threading issues.md"
+                "file": "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md"
               }
             }
           },
@@ -223,13 +247,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72c2552794989b7d",
+  "active": "033e598fcb0febfb",
   "lastOpenFiles": [
-    "Threading/starvation.md",
     "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
+    "Multiprocessor Systems/scheduling algorithms/UNIX scheduler.md",
+    "Threading/deadlock.md",
+    "Threading/livelock.md",
+    "Threading/threading issues.md",
+    "Threading/starvation.md",
     "Multiprocessor Systems/scheduling algorithms/scheduling algorithm.md",
     "Multiprocessor Systems/scheduling algorithms/round robin scheduling.md",
-    "Threading/threading issues.md",
     "Concepts/preemption.md",
     "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
     "Multiprocessor Systems/scheduling algorithms/batch scheduling.md",
@@ -249,9 +276,6 @@
     "Threading/synchronisation primitive.md",
     "Threading/lock.md",
     "Threading/spin lock.md",
-    "Threading/semaphore.md",
-    "Concepts/Hardware/ROM.md",
-    "Multiprocessor Systems/Cache consistency.md",
     "Concepts/Hardware",
     "Multiprocessor Systems",
     "Memory Management/Page tables/Pasted image 20230522001953.png",

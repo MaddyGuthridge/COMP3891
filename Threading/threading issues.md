@@ -5,7 +5,10 @@ Two [[thread]]s access same data (memory, files). See [[race condition]].
 Two threads waiting to access same data (memory, files). See [[deadlock]].
 
 ## Starvation
+High priority threads use all resources, leaving none for low priority threads. See [[starvation]].
 
+## Livelock
+Similar to deadlock, but both threads are still doing stuff. See [[livelock]].
 
 ## What we need
 - Avoid by **controlling access to shared resources using shared code** (critical sections)

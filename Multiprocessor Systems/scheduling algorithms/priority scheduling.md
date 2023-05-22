@@ -10,4 +10,4 @@ Priority scheduling is used by the multi-level round robin algorithm.
 ### Multi-level round robin
 Uses a series of "queue headers" - one for each priority. Top priority queues are emptied before executing lower queues.
 
-This means that low priority tasks can [[starvation|starve]]
+This means that there is a risk of low priority tasks [[starvation|starving]].
