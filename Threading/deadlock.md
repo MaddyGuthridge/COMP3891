@@ -10,6 +10,7 @@ Solutions for deadlock
 - Make resources not mutually exclusive
 - Make threads only use one resource at once
 - Always acquire multiple locks in the same order
+- Use a "big lock" to guard all resources that need to be accessed simultaneously
 
 ## See also
 - [[livelock]]
