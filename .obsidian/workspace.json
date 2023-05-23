@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Concepts/fragmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Concepts/fragmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/page table.md",
+                "file": "Concepts/fragmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/page table.md"
+                "file": "Concepts/fragmentation.md"
               }
             }
           },
@@ -229,6 +229,8 @@
   },
   "active": "be3722f23f9ce240",
   "lastOpenFiles": [
+    "Memory Management/Page tables/two-level page table.md",
+    "Memory Management/Page tables/page table.md",
     "Memory Management/Page tables/Itanium page table.md",
     "Memory Management/Page tables/virtual linear page table.md",
     "Memory Management/Page tables/page.md",
@@ -253,8 +255,6 @@
     "File Systems/file.md",
     "mips/exception codes.md",
     "OS components/drivers.md",
-    "Threading/context switch.md",
-    "Memory Management/TLBs/translation look-aside buffer.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
