@@ -1,0 +1,3 @@
+A virtual linear [[page table]] stores the page table partially in [[virtual memory]]. The structure similar to a [[multi-level page table]], but all levels except for the root level are stored in virtual memory - this memory for all of the virtual levels of the page table is contiguous in the virtual [[address space]]. The root-level page table is still kept in unmapped memory so that it can never trigger page faults (or we could get an infinite loop).
+
+A [[page fault]] during the handling of an existing fault causes a secondary fault handler to load the required frame into the [[translation look-aside buffer|TLB]], so that the lookup can continue. This means that we can index directly into the second level of the page table, improving performance in some cases.

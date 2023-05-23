@@ -40,9 +40,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ad9cc00d287e293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/virtual linear page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be3722f23f9ce240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/page table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Page tables/Itanium page table.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Page tables/Itanium page table.md",
+                "file": "Memory Management/Page tables/page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Page tables/Itanium page table.md"
+                "file": "Memory Management/Page tables/page table.md"
               }
             }
           },
@@ -203,10 +227,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d909f876603b4b52",
+  "active": "be3722f23f9ce240",
   "lastOpenFiles": [
-    "Memory Management/Page tables/page.md",
     "Memory Management/Page tables/Itanium page table.md",
+    "Memory Management/Page tables/virtual linear page table.md",
+    "Memory Management/Page tables/page.md",
     "Memory Management/TLBs/TLB miss.md",
     "File Systems/virtual file system.md",
     "README.md",
@@ -230,7 +255,6 @@
     "OS components/drivers.md",
     "Threading/context switch.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
-    "OS components/exception.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",

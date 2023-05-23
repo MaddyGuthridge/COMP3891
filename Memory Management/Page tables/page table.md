@@ -37,7 +37,9 @@ This is wayyyyyyy too many entries, which is wasteful as for most programs will 
 - [[multi-level page table]]
 
 ### Data structures which only represent resident pages
+- [[inverted page table]]
 - [[hashed page table]]
 
 ### Using VM techniques for page tables
-Causes chicken-egg problems
+Causes chicken-egg problems if poorly designed. You need to be very careful to avoid infinite page faults.
+- [[virtual linear page table]]
