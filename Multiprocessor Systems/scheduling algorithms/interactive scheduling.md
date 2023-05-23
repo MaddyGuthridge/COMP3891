@@ -1,4 +1,4 @@
-Interactive [[scheduling]] is a category of [[scheduling algorithm]] which prioritises keeping the system interactive for the user.
+Interactive [[scheduling]] is a category of [[scheduling algorithm]] which prioritises keeping the [[operating system|system]] interactive for the user.
 
 Interactive schedulers are most-often used for consumer systems, such as desktop and mobile [[operating system|operating systems]].
 

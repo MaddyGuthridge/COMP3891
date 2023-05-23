@@ -1,4 +1,4 @@
-An operating system needs to manage memory
+An [[operating system]] needs to manage memory
 
 - Allocate [[memory resources|resources]] for [[process]]es as required
 - Deallocate resources when they are no-longer needed
@@ -17,5 +17,5 @@ An operating system needs to manage memory
 
 ## Kinds of memory management
 
-- [[multiprogramming|Multiprogramming]]: design OS for multi-tasking
+- [[multiprogramming|Multiprogramming]]: design [[operating system|OS]] for multi-tasking
 - [[monoprogramming|Monoprogramming]]: design OS for a single task

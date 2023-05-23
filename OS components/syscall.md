@@ -1,6 +1,6 @@
 - Aka "trap" (since we trap execution)
 
-System calls (usually shortened to *syscall*) are a way for userland code to communicate with the operating system. An OS will have a strictly-defined interface that a program can access by giving a syscall [[exception]] on the [[CPU]]. The [[kernel]] then assumes control of the processor, and performs the required action before returning control back to the [[process]].
+System calls (usually shortened to *syscall*) are a way for userland code to communicate with the operating system. An [[operating system|OS]] will have a strictly-defined interface that a program can access by giving a syscall [[exception]] on the [[CPU]]. The [[kernel]] then assumes control of the processor, and performs the required action before returning control back to the [[process]].
 
 ## Some important syscalls
 There are hundreds of them, but these are the ones that you might want to know:

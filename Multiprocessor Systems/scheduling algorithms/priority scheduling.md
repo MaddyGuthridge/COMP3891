@@ -2,7 +2,7 @@ We can improve on the [[round robin scheduling|round robin]] [[scheduling algori
 
 ## Internal vs external priorities
 - Internal priorities are determined by the [[operating system]] (eg if a process is I/O-bound or [[CPU]] bound)
-- External priorities are provided by the user or system administrator (eg they chose it in their OS system monitor app)
+- External priorities are provided by the user or system administrator (eg they chose it in their [[operating system|OS]] system monitor app)
 
 ## Algorithms
 Priority scheduling is used by the multi-level round robin algorithm.

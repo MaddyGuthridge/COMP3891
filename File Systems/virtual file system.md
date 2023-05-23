@@ -1,7 +1,7 @@
 A virtual file system (VFS) is an interface for combining multiple [[file system]]s together, allowing for all the file systems on the computer to be contained within a single tree. Each file is given a [[vnode]], which is used to represent that file in the overall system.
 
 ## Mounting
-File systems get mounted onto the virtual file system, and the OS handles integrating them together, so that apps in user-land don't need to worry about the differences.
+File systems get mounted onto the virtual file system, and the [[operating system|OS]] handles integrating them together, so that apps in user-land don't need to worry about the differences.
 
 ## File system representation
 ```c

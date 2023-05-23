@@ -1,6 +1,6 @@
 A [[syscall]] which opens a [[file]], potentially creating it if it doesn't exist.
 
-Returns a [[file descriptor]]. The OS must map between a [[process]]'s file descriptors and the corresponding [[vnode|vnodes]].
+Returns a [[file descriptor]]. The [[operating system|OS]] must map between a [[process]]'s file descriptors and the corresponding [[vnode|vnodes]].
 
 ```c
 int open(const char *filename, int flags);

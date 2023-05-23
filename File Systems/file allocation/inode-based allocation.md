@@ -3,7 +3,7 @@ Use a separate table ([[inode]]) for each file.
 - Only keep the table for open files in memory
 - Offers fast random access for files
 
-Used by almost all modern file systems.
+Used by almost all modern [[file system|file systems]].
 
 ## Writing an inode
 - Super block
@@ -40,6 +40,6 @@ Essentially a directory maps string names to inode numbers for all their child n
 
 #### Problems
 - Since inodes are at start and data is at end, there are long seek times for mechanical hard drives
-- Only one super block - if it is corrupted, your entire file system is lost
+- Only one super block - if it is corrupted, your entire [[file system]] is lost
 - Using a linked list of free blocks, causing scattered nodes
 - Same thing for directory inode listing - scattered nodes cause slowness

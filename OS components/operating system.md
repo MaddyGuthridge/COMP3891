@@ -1,4 +1,4 @@
-An operating system is a collection of software that provides a layer of abstraction that allows other software to run independently of the machine hardware.
+An operating system (OS) is a collection of software that provides a layer of abstraction that allows other software to run independently of the machine hardware.
 
 An OS is comprised of various components:
 

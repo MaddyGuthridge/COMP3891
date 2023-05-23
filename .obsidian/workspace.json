@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "8c624abf5cec2340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/TLBs/TLB refill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33d2e5f488a8d283",
+            "id": "35d247707c157818",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,69 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2fb777a324de6c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS components/exception.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40206b623bac1935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4389c99ed2e13e0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management/TLBs/TLB refill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b226ae704633d9e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/case studies/ext3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "842a765ff0181e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Systems/file system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "os",
+                "query": "operating system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
+                "file": "Memory Management/TLBs/TLB miss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md",
+                "file": "Memory Management/TLBs/TLB miss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems/file allocation/inode-based allocation.md"
+                "file": "Memory Management/TLBs/TLB miss.md"
               }
             }
           },
@@ -264,8 +191,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40206b623bac1935",
+  "active": "35d247707c157818",
   "lastOpenFiles": [
+    "File Systems/virtual file system.md",
+    "README.md",
+    "os-161/os-161.md",
+    "Concepts/multiprogramming.md",
+    "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
+    "File Systems/file allocation/inode-based allocation.md",
+    "File Systems/file names.md",
+    "OS components/syscall.md",
+    "Threading/scheduler activations.md",
+    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
+    "Memory Management/Page tables/page fault.md",
+    "OS components/operating system.md",
+    "OS components/syscalls/open.md",
+    "Multiprocessor Systems/multiprocessor system.md",
+    "Concepts/monoprogramming.md",
+    "Memory Management/memory management.md",
+    "OS components/kernel.md",
     "File Systems/file.md",
     "mips/exception codes.md",
     "OS components/drivers.md",
@@ -274,24 +218,7 @@
     "Memory Management/TLBs/translation look-aside buffer.md",
     "OS components/exception.md",
     "Memory Management/TLBs/TLB refill.md",
-    "Concepts/monoprogramming.md",
     "File Systems/case studies/ext3.md",
-    "File Systems/file system.md",
-    "2023-05-23.md",
-    "OS components/operating system.md",
-    "task scheduler.md",
-    "Memory Management/memory sharing.md",
-    "Memory Management/memory resources.md",
-    "OS components/syscalls/write.md",
-    "Concepts/userland.md",
-    "Threading/threading issues.md",
-    "OS components/syscalls/read.md",
-    "OS components/mode switching.md",
-    "OS components/kernel.md",
-    "OS components/execution mode.md",
-    "mips/coprocessor 0.md",
-    "Threading/upcalls.md",
-    "OS components/syscall.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",

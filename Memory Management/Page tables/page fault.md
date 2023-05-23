@@ -1,4 +1,4 @@
-Referencing an invalid [[page]] triggers a page fault, an exception handled by the OS.
+Referencing an invalid [[page]] triggers a page fault, an exception handled by the [[operating system|OS]].
 
 Two kinds of fault
 - Illegal address: send `SIGSEGV` signal to process (at least on Linux)
