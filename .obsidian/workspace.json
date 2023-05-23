@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/TLBs/TLB miss.md",
+                "file": "Memory Management/Page tables/page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d909f876603b4b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Page tables/Itanium page table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/TLBs/TLB miss.md",
+                "file": "Memory Management/Page tables/Itanium page table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/TLBs/TLB miss.md",
+                "file": "Memory Management/Page tables/Itanium page table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/TLBs/TLB miss.md"
+                "file": "Memory Management/Page tables/Itanium page table.md"
               }
             }
           },
@@ -191,8 +203,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35d247707c157818",
+  "active": "d909f876603b4b52",
   "lastOpenFiles": [
+    "Memory Management/Page tables/page.md",
+    "Memory Management/Page tables/Itanium page table.md",
+    "Memory Management/TLBs/TLB miss.md",
     "File Systems/virtual file system.md",
     "README.md",
     "os-161/os-161.md",
@@ -214,11 +229,8 @@
     "mips/exception codes.md",
     "OS components/drivers.md",
     "Threading/context switch.md",
-    "Memory Management/TLBs/TLB miss.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
     "OS components/exception.md",
-    "Memory Management/TLBs/TLB refill.md",
-    "File Systems/case studies/ext3.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
