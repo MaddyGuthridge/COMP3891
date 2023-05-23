@@ -1,1 +1,1 @@
-Code to tell the OS how to communicate with a device.
+Code to tell the [[operating system|OS]] how to communicate with a device.

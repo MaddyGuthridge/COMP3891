@@ -23,4 +23,4 @@ Files also have metadata that can be useful
 	- Accessed
 - Size
 - Locks (to prevent data races)
-- And more, depending on OS
+- And more, depending on [[operating system|OS]]

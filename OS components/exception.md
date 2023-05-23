@@ -3,6 +3,6 @@ An exception is not like exceptions used in high-level languages. Instead it is 
 Exceptions can include
 - [[syscall|syscalls]]
 - interrupts
-- [[translation look-aside buffer|TLB]] misses
+- [[TLB miss|TLB misses]]
 
 In [[MIPS]] systems, info about exceptions can be gathered by checking values in [[coprocessor 0]].

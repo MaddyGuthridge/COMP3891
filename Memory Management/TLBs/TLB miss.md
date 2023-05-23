@@ -1,0 +1,1 @@
+A TLB miss occurs when an attempted lookup in the [[translation look-aside buffer]] fails, meaning the entry needs to be added by performing a [[page table]] lookup and a [[TLB refill]]. This is a costly operation, so frequently TLB misses can contribute to poor performance in some applications.
