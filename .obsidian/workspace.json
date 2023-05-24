@@ -59,14 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threading/deadlock.md",
+                "file": "Memory Management/TLBs/translation look-aside buffer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threading/deadlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threading/deadlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Threading/deadlock.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be3722f23f9ce240",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
+    "Memory Management/TLBs/translation look-aside buffer.md",
+    "Threading/deadlock.md",
     "Concepts/fragmentation.md",
     "Memory Management/Page tables/two-level page table.md",
     "Memory Management/Page tables/page table.md",
@@ -253,8 +250,6 @@
     "Concepts/monoprogramming.md",
     "Memory Management/memory management.md",
     "OS components/kernel.md",
-    "File Systems/file.md",
-    "mips/exception codes.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
