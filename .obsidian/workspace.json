@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
+                "file": "File Systems/file allocation/log-structured allocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
+                "file": "File Systems/file allocation/log-structured allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md",
+                "file": "File Systems/file allocation/log-structured allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiprocessor Systems/scheduling.md"
+                "file": "File Systems/file allocation/log-structured allocation.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "25b6d9a2d838ce5f",
   "lastOpenFiles": [
+    "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/symmetric multiprocessing.md",
     "Threading/spin lock.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
@@ -218,7 +219,6 @@
     "OS components/operating system.md",
     "OS components/syscalls/open.md",
     "Multiprocessor Systems/multiprocessor system.md",
-    "Concepts/monoprogramming.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
