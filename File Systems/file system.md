@@ -3,6 +3,7 @@ A file system is an abstraction used to represent data on a storage medium (eg a
 There are many [[file system types]], which all have different benefits and drawbacks.
 
 This abstraction provides:
+
 | In user-land                          | Under the hood                                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Uniform namespace                     | Assortment of drives, files, devices, and other things (or everything on UNIX-like systems) |
