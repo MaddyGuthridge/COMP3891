@@ -31,9 +31,10 @@ Essentially a directory maps string names to inode numbers for all their child n
 ## How inodes are stored
 
 ### System V file system
+
 | Section     | Purpose                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Boot block  | Code to bootstrap the [[operating system|OS]]                                                                                                                         |
+| Boot block  | Code to bootstrap the [[operating system]]                                                                                                                         |
 | Super block | Attributes of the file system itself (number of inodes, start block of inode array, start of data blocks, free inode list, free data block list) |
 | Inode array | Contains all the inodes - we can look up an inode using the start offset and the inode number                                                    |
 | Data        | Data blocks                                                                                                                                      |

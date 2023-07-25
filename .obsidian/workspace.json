@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems/file system.md",
+                "file": "File Systems/file allocation/log-structured allocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems/file system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems/file system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "File Systems/file system.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,12 +198,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25b6d9a2d838ce5f",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
-    "File Systems/case studies/ext2.md",
-    "Threading/spin lock.md",
     "File Systems/file allocation/log-structured allocation.md",
     "File Systems/file allocation/inode-based allocation.md",
+    "File Systems/file allocation/file access table allocation.md",
+    "File Systems/file system.md",
+    "File Systems/case studies/ext2.md",
+    "Threading/spin lock.md",
     "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/symmetric multiprocessing.md",
     "Memory Management/TLBs/translation look-aside buffer.md",
@@ -229,8 +226,6 @@
     "OS components/syscall.md",
     "Threading/scheduler activations.md",
     "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
-    "Memory Management/Page tables/page fault.md",
-    "OS components/operating system.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
