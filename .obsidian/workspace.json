@@ -40,6 +40,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb726e869d4fe5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Systems/case studies/ext2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -200,11 +212,11 @@
   },
   "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
+    "File Systems/case studies/ext2.md",
     "File Systems/file allocation/log-structured allocation.md",
     "File Systems/file allocation/inode-based allocation.md",
     "File Systems/file allocation/file access table allocation.md",
     "File Systems/file system.md",
-    "File Systems/case studies/ext2.md",
     "Threading/spin lock.md",
     "Multiprocessor Systems/scheduling.md",
     "Multiprocessor Systems/symmetric multiprocessing.md",
