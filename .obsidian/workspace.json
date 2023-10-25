@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS components/exception.md",
+                "file": "OS components/operating system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS components/exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS components/exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OS components/exception.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,12 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bf40f748daf8408",
+  "active": "4c0a66a9178317c6",
   "lastOpenFiles": [
+    "OS components/operating system.md",
+    "OS components/kernel.md",
     "OS components/file descriptor.md",
+    "OS components/exception.md",
     "Concepts/Hardware/CPU.md",
     "Processes/process.md",
-    "OS components/kernel.md",
     "OS components/execution mode.md",
     "README.md",
     "File Systems/file allocation/log-structured allocation.md",
@@ -225,8 +222,6 @@
     "Memory Management/Page tables/page.md",
     "Memory Management/TLBs/TLB miss.md",
     "File Systems/virtual file system.md",
-    "os-161/os-161.md",
-    "Concepts/multiprogramming.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
