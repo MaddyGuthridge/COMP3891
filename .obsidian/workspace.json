@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "5bf40f748daf8408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS components/exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS components/exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS components/exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS components/exception.md"
+              }
             }
           },
           {
@@ -182,8 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72d053a5a7e0813e",
+  "active": "5bf40f748daf8408",
   "lastOpenFiles": [
+    "OS components/file descriptor.md",
+    "Concepts/Hardware/CPU.md",
+    "Processes/process.md",
+    "OS components/kernel.md",
+    "OS components/execution mode.md",
+    "README.md",
     "File Systems/file allocation/log-structured allocation.md",
     "File Systems/file allocation/inode-based allocation.md",
     "File Systems/case studies/ext2.md",
@@ -202,14 +225,8 @@
     "Memory Management/Page tables/page.md",
     "Memory Management/TLBs/TLB miss.md",
     "File Systems/virtual file system.md",
-    "README.md",
     "os-161/os-161.md",
     "Concepts/multiprogramming.md",
-    "Multiprocessor Systems/scheduling algorithms/interactive scheduling.md",
-    "File Systems/file names.md",
-    "OS components/syscall.md",
-    "Threading/scheduler activations.md",
-    "Multiprocessor Systems/scheduling algorithms/priority scheduling.md",
     "Multiprocessor Systems/scheduling algorithms",
     "Concepts/Hardware",
     "Multiprocessor Systems",
