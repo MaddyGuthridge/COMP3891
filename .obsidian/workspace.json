@@ -171,12 +171,20 @@
             "id": "72d053a5a7e0813e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2792d12c40696516",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -194,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c0a66a9178317c6",
+  "active": "2792d12c40696516",
   "lastOpenFiles": [
     "OS components/operating system.md",
     "OS components/kernel.md",
